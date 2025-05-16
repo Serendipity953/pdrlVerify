@@ -1,0 +1,1333 @@
+/home/yangjunfeng/anaconda3/envs/Verify/bin/python3.7 /home/yangjunfeng/Verify/Verify/MDPChecking/AdaptiveCar.py 
+/home/yangjunfeng/Verify/Verify/AdaptiveCar/rtree/level_2
+number of states in rtree 5050000
+env=MyAdaptiveCar-v0
+state_dim=4
+action_dim=2
+max_episode_steps=1000
+------use_orthogonal_init------
+------use_orthogonal_init------
+evaluate_num:1 	 evaluate_reward:-17724.005888630123 	
+evaluate_num:2 	 evaluate_reward:-35033.24433137703 	
+evaluate_num:3 	 evaluate_reward:-36589.441855606645 	
+evaluate_num:4 	 evaluate_reward:-35904.406816061244 	
+evaluate_num:5 	 evaluate_reward:-45078.09461606852 	
+evaluate_num:6 	 evaluate_reward:-3271.6663708002034 	
+evaluate_num:7 	 evaluate_reward:-29327.76282233081 	
+evaluate_num:8 	 evaluate_reward:-32434.18056364868 	
+evaluate_num:9 	 evaluate_reward:-33318.36068337307 	
+evaluate_num:10 	 evaluate_reward:-57511.18225595364 	
+evaluate_num:11 	 evaluate_reward:-18811.50341441962 	
+evaluate_num:12 	 evaluate_reward:-37118.07618303458 	
+evaluate_num:13 	 evaluate_reward:-50852.90672770408 	
+evaluate_num:14 	 evaluate_reward:-5560.1173574899085 	
+evaluate_num:15 	 evaluate_reward:-5550.173036438514 	
+evaluate_num:16 	 evaluate_reward:-91849.83297755779 	
+evaluate_num:17 	 evaluate_reward:-14174.146570278683 	
+evaluate_num:18 	 evaluate_reward:-2114.2830362786867 	
+evaluate_num:19 	 evaluate_reward:-8765.024261966733 	
+evaluate_num:20 	 evaluate_reward:-9005.034155687614 	
+evaluate_num:21 	 evaluate_reward:-26686.50198216511 	
+evaluate_num:22 	 evaluate_reward:-2988.995669063723 	
+evaluate_num:23 	 evaluate_reward:-2513.3431035819326 	
+evaluate_num:24 	 evaluate_reward:-24784.176248393633 	
+evaluate_num:25 	 evaluate_reward:-14950.806061055415 	
+evaluate_num:26 	 evaluate_reward:-40349.410162363565 	
+evaluate_num:27 	 evaluate_reward:-67628.38381195307 	
+evaluate_num:28 	 evaluate_reward:-65710.3845662831 	
+evaluate_num:29 	 evaluate_reward:-60178.47315363906 	
+evaluate_num:30 	 evaluate_reward:-25520.18226796607 	
+evaluate_num:31 	 evaluate_reward:-108485.12893824297 	
+evaluate_num:32 	 evaluate_reward:-55980.76654248355 	
+evaluate_num:33 	 evaluate_reward:-53967.162780329 	
+evaluate_num:34 	 evaluate_reward:-44537.27594671993 	
+evaluate_num:35 	 evaluate_reward:-17058.977258421382 	
+evaluate_num:36 	 evaluate_reward:-28905.529327543572 	
+evaluate_num:37 	 evaluate_reward:-34610.97133429886 	
+evaluate_num:38 	 evaluate_reward:-11378.76084797419 	
+evaluate_num:39 	 evaluate_reward:-11147.957941770903 	
+evaluate_num:40 	 evaluate_reward:-18878.208382246616 	
+evaluate_num:41 	 evaluate_reward:-13415.20608884694 	
+evaluate_num:42 	 evaluate_reward:-2422.750014583227 	
+evaluate_num:43 	 evaluate_reward:-19791.4927569961 	
+evaluate_num:44 	 evaluate_reward:-6827.064164507097 	
+evaluate_num:45 	 evaluate_reward:-8462.21032702543 	
+evaluate_num:46 	 evaluate_reward:-4596.127840422671 	
+evaluate_num:47 	 evaluate_reward:-10230.542978638703 	
+evaluate_num:48 	 evaluate_reward:-4113.704591776596 	
+evaluate_num:49 	 evaluate_reward:-3272.632607832946 	
+evaluate_num:50 	 evaluate_reward:-2978.2544152351743 	
+evaluate_num:51 	 evaluate_reward:-3714.0505449785655 	
+evaluate_num:52 	 evaluate_reward:-382.6213457913396 	
+evaluate_num:53 	 evaluate_reward:-1750.0020458923555 	
+evaluate_num:54 	 evaluate_reward:-5225.904263144591 	
+evaluate_num:55 	 evaluate_reward:-2001.2775150603538 	
+evaluate_num:56 	 evaluate_reward:-3038.1183175037163 	
+evaluate_num:57 	 evaluate_reward:-1740.9709099480867 	
+evaluate_num:58 	 evaluate_reward:-2450.5815633197512 	
+evaluate_num:59 	 evaluate_reward:-4979.12145462614 	
+evaluate_num:60 	 evaluate_reward:-1263.557114898365 	
+evaluate_num:61 	 evaluate_reward:-1676.192290933456 	
+evaluate_num:62 	 evaluate_reward:-10417.659502647199 	
+evaluate_num:63 	 evaluate_reward:-453.13665019122544 	
+evaluate_num:64 	 evaluate_reward:-7594.651471616849 	
+evaluate_num:65 	 evaluate_reward:-782.4527566780993 	
+evaluate_num:66 	 evaluate_reward:-2698.1885453478085 	
+evaluate_num:67 	 evaluate_reward:-280.9636615057003 	
+evaluate_num:68 	 evaluate_reward:-1465.9264517789388 	
+evaluate_num:69 	 evaluate_reward:-141.14037895901785 	
+evaluate_num:70 	 evaluate_reward:-2308.6831116700478 	
+evaluate_num:71 	 evaluate_reward:-508.6603192789466 	
+evaluate_num:72 	 evaluate_reward:-493.20888379902345 	
+evaluate_num:73 	 evaluate_reward:-1195.3653542326476 	
+evaluate_num:74 	 evaluate_reward:-538.8234558802392 	
+evaluate_num:75 	 evaluate_reward:-522.6928839634664 	
+evaluate_num:76 	 evaluate_reward:-101.95645915083558 	
+evaluate_num:77 	 evaluate_reward:-383.33229190415886 	
+evaluate_num:78 	 evaluate_reward:-380.2979328997621 	
+evaluate_num:79 	 evaluate_reward:-536.5555029511955 	
+evaluate_num:80 	 evaluate_reward:-602.4022256916836 	
+evaluate_num:81 	 evaluate_reward:-814.4642257213171 	
+evaluate_num:82 	 evaluate_reward:-365.9753865051924 	
+evaluate_num:83 	 evaluate_reward:-330.1174051607847 	
+evaluate_num:84 	 evaluate_reward:-343.611001356509 	
+evaluate_num:85 	 evaluate_reward:-321.6981555404773 	
+evaluate_num:86 	 evaluate_reward:-467.7629067697175 	
+evaluate_num:87 	 evaluate_reward:-199.03828426171734 	
+evaluate_num:88 	 evaluate_reward:-124.07071285008173 	
+evaluate_num:89 	 evaluate_reward:-236.89491298501454 	
+evaluate_num:90 	 evaluate_reward:-275.1602831001871 	
+evaluate_num:91 	 evaluate_reward:-103.63358703229558 	
+evaluate_num:92 	 evaluate_reward:-113.42436610854962 	
+evaluate_num:93 	 evaluate_reward:-146.75592911938907 	
+evaluate_num:94 	 evaluate_reward:-72.20168108881761 	
+evaluate_num:95 	 evaluate_reward:-110.9888772668151 	
+evaluate_num:96 	 evaluate_reward:-96.13109052773378 	
+evaluate_num:97 	 evaluate_reward:-56.53987067759278 	
+evaluate_num:98 	 evaluate_reward:-101.34790201302195 	
+evaluate_num:99 	 evaluate_reward:-121.80717116486301 	
+evaluate_num:100 	 evaluate_reward:-71.3641427749581 	
+evaluate_num:101 	 evaluate_reward:-143.3185093969411 	
+evaluate_num:102 	 evaluate_reward:-59.45210967617314 	
+evaluate_num:103 	 evaluate_reward:-61.477755634672 	
+evaluate_num:104 	 evaluate_reward:-236.15513782035586 	
+evaluate_num:105 	 evaluate_reward:-64.33469804293452 	
+evaluate_num:106 	 evaluate_reward:-118.22559368328864 	
+evaluate_num:107 	 evaluate_reward:-68.74880543882287 	
+evaluate_num:108 	 evaluate_reward:-95.33354593520686 	
+evaluate_num:109 	 evaluate_reward:-74.83102589793658 	
+evaluate_num:110 	 evaluate_reward:-77.85091535541879 	
+evaluate_num:111 	 evaluate_reward:-89.7713943860238 	
+evaluate_num:112 	 evaluate_reward:-58.19647926155532 	
+evaluate_num:113 	 evaluate_reward:-70.7766368502296 	
+evaluate_num:114 	 evaluate_reward:-115.97059973612345 	
+evaluate_num:115 	 evaluate_reward:-69.75343805454436 	
+evaluate_num:116 	 evaluate_reward:-88.3962241770834 	
+evaluate_num:117 	 evaluate_reward:-58.25148695628002 	
+evaluate_num:118 	 evaluate_reward:-104.03198145025249 	
+evaluate_num:119 	 evaluate_reward:-64.47139556237893 	
+evaluate_num:120 	 evaluate_reward:-80.34302649736158 	
+evaluate_num:121 	 evaluate_reward:-90.36518558126699 	
+evaluate_num:122 	 evaluate_reward:-109.64826933630968 	
+evaluate_num:123 	 evaluate_reward:-105.00008560592921 	
+evaluate_num:124 	 evaluate_reward:-69.1971503585042 	
+evaluate_num:125 	 evaluate_reward:-118.33320610950501 	
+evaluate_num:126 	 evaluate_reward:-52.73621259030486 	
+evaluate_num:127 	 evaluate_reward:-125.86569684161049 	
+evaluate_num:128 	 evaluate_reward:-143.32088210532336 	
+evaluate_num:129 	 evaluate_reward:-55.8429027606475 	
+evaluate_num:130 	 evaluate_reward:-98.95692614002287 	
+evaluate_num:131 	 evaluate_reward:-135.10384851595248 	
+evaluate_num:132 	 evaluate_reward:-70.66287162158783 	
+evaluate_num:133 	 evaluate_reward:-110.69969532331693 	
+evaluate_num:134 	 evaluate_reward:-72.14238169108664 	
+evaluate_num:135 	 evaluate_reward:-74.36069434481995 	
+evaluate_num:136 	 evaluate_reward:-68.49645432222563 	
+evaluate_num:137 	 evaluate_reward:-77.53195172516962 	
+evaluate_num:138 	 evaluate_reward:-79.22871304492871 	
+evaluate_num:139 	 evaluate_reward:-63.86266113159838 	
+evaluate_num:140 	 evaluate_reward:-57.20838480693377 	
+evaluate_num:141 	 evaluate_reward:-73.38522158878226 	
+evaluate_num:142 	 evaluate_reward:-157.33320907152802 	
+evaluate_num:143 	 evaluate_reward:-135.70047025904282 	
+evaluate_num:144 	 evaluate_reward:-129.5891415573955 	
+evaluate_num:145 	 evaluate_reward:-56.864316186787526 	
+evaluate_num:146 	 evaluate_reward:-78.00858942177439 	
+evaluate_num:147 	 evaluate_reward:-71.62495072404288 	
+evaluate_num:148 	 evaluate_reward:-64.22728799023726 	
+evaluate_num:149 	 evaluate_reward:-71.0195333098054 	
+evaluate_num:150 	 evaluate_reward:-57.86106483204338 	
+evaluate_num:151 	 evaluate_reward:-55.49899686183551 	
+evaluate_num:152 	 evaluate_reward:-94.87944500770477 	
+evaluate_num:153 	 evaluate_reward:-159.88608403790792 	
+evaluate_num:154 	 evaluate_reward:-87.82033294579294 	
+evaluate_num:155 	 evaluate_reward:-61.84819127148365 	
+evaluate_num:156 	 evaluate_reward:-46.41379315346908 	
+evaluate_num:157 	 evaluate_reward:-100.18452061676032 	
+evaluate_num:158 	 evaluate_reward:-76.78315582947918 	
+evaluate_num:159 	 evaluate_reward:-56.50874410857218 	
+evaluate_num:160 	 evaluate_reward:-91.32348380295859 	
+evaluate_num:161 	 evaluate_reward:-71.6896627337271 	
+evaluate_num:162 	 evaluate_reward:-140.54405693666456 	
+evaluate_num:163 	 evaluate_reward:-208.21278366562228 	
+evaluate_num:164 	 evaluate_reward:-113.44246037529592 	
+evaluate_num:165 	 evaluate_reward:-69.7807266671081 	
+evaluate_num:166 	 evaluate_reward:-114.87297537893983 	
+evaluate_num:167 	 evaluate_reward:-116.66055167794106 	
+evaluate_num:168 	 evaluate_reward:-78.9895012272763 	
+evaluate_num:169 	 evaluate_reward:-55.1197340112768 	
+evaluate_num:170 	 evaluate_reward:-76.38194371885726 	
+evaluate_num:171 	 evaluate_reward:-59.23142223777017 	
+evaluate_num:172 	 evaluate_reward:-78.50670163541362 	
+evaluate_num:173 	 evaluate_reward:-56.792713261551825 	
+evaluate_num:174 	 evaluate_reward:-64.49969181672128 	
+evaluate_num:175 	 evaluate_reward:-81.04991236415293 	
+evaluate_num:176 	 evaluate_reward:-57.62316892755371 	
+evaluate_num:177 	 evaluate_reward:-66.43956796037186 	
+evaluate_num:178 	 evaluate_reward:-99.47493566285921 	
+evaluate_num:179 	 evaluate_reward:-115.3463945928262 	
+evaluate_num:180 	 evaluate_reward:-76.94393260691469 	
+evaluate_num:181 	 evaluate_reward:-90.25726104815696 	
+evaluate_num:182 	 evaluate_reward:-75.77673480746024 	
+evaluate_num:183 	 evaluate_reward:-51.99101014856458 	
+evaluate_num:184 	 evaluate_reward:-87.47420740165963 	
+evaluate_num:185 	 evaluate_reward:-56.03770759389548 	
+evaluate_num:186 	 evaluate_reward:-48.97825185131876 	
+evaluate_num:187 	 evaluate_reward:-96.14272574965968 	
+evaluate_num:188 	 evaluate_reward:-278.8405532957176 	
+evaluate_num:189 	 evaluate_reward:-178.4654604747859 	
+evaluate_num:190 	 evaluate_reward:-107.58942661985462 	
+evaluate_num:191 	 evaluate_reward:-68.06903886245341 	
+evaluate_num:192 	 evaluate_reward:-93.39308158158308 	
+evaluate_num:193 	 evaluate_reward:-124.4913808227385 	
+evaluate_num:194 	 evaluate_reward:-109.72573716727705 	
+evaluate_num:195 	 evaluate_reward:-109.79477208338051 	
+evaluate_num:196 	 evaluate_reward:-49.462363018549524 	
+evaluate_num:197 	 evaluate_reward:-65.04157190803373 	
+evaluate_num:198 	 evaluate_reward:-80.92188407596318 	
+evaluate_num:199 	 evaluate_reward:-134.35852132148298 	
+evaluate_num:200 	 evaluate_reward:-91.47084574013026 	
+evaluate_num:201 	 evaluate_reward:-54.450237998212366 	
+evaluate_num:202 	 evaluate_reward:-64.86986499124919 	
+evaluate_num:203 	 evaluate_reward:-109.52349440697158 	
+evaluate_num:204 	 evaluate_reward:-81.8187816813167 	
+evaluate_num:205 	 evaluate_reward:-62.53156852834669 	
+evaluate_num:206 	 evaluate_reward:-85.01613061545744 	
+evaluate_num:207 	 evaluate_reward:-120.86950505782188 	
+evaluate_num:208 	 evaluate_reward:-64.95074710573205 	
+evaluate_num:209 	 evaluate_reward:-61.42371248377096 	
+evaluate_num:210 	 evaluate_reward:-57.161025254447566 	
+evaluate_num:211 	 evaluate_reward:-48.92566730123755 	
+evaluate_num:212 	 evaluate_reward:-44.91302529245841 	
+evaluate_num:213 	 evaluate_reward:-73.20757658017325 	
+evaluate_num:214 	 evaluate_reward:-54.0331458299736 	
+evaluate_num:215 	 evaluate_reward:-123.53923166100873 	
+evaluate_num:216 	 evaluate_reward:-46.00474250682299 	
+evaluate_num:217 	 evaluate_reward:-44.38178486657791 	
+evaluate_num:218 	 evaluate_reward:-57.26910166656288 	
+evaluate_num:219 	 evaluate_reward:-52.49541008400257 	
+evaluate_num:220 	 evaluate_reward:-91.76318237384669 	
+evaluate_num:221 	 evaluate_reward:-87.49343072765896 	
+evaluate_num:222 	 evaluate_reward:-124.67908257304691 	
+evaluate_num:223 	 evaluate_reward:-66.7241966697758 	
+evaluate_num:224 	 evaluate_reward:-176.8786533670938 	
+evaluate_num:225 	 evaluate_reward:-80.39615750193636 	
+evaluate_num:226 	 evaluate_reward:-59.74418931991179 	
+evaluate_num:227 	 evaluate_reward:-46.76099381471587 	
+evaluate_num:228 	 evaluate_reward:-60.4832428136481 	
+evaluate_num:229 	 evaluate_reward:-63.71504014994547 	
+evaluate_num:230 	 evaluate_reward:-59.54831030631653 	
+evaluate_num:231 	 evaluate_reward:-48.06667482331164 	
+evaluate_num:232 	 evaluate_reward:-77.1091592273615 	
+evaluate_num:233 	 evaluate_reward:-66.79613045404649 	
+evaluate_num:234 	 evaluate_reward:-106.12552932325536 	
+evaluate_num:235 	 evaluate_reward:-63.14817839418756 	
+evaluate_num:236 	 evaluate_reward:-139.67335101717893 	
+evaluate_num:237 	 evaluate_reward:-97.48785065522033 	
+evaluate_num:238 	 evaluate_reward:-60.46649135501747 	
+evaluate_num:239 	 evaluate_reward:-145.4536808380212 	
+evaluate_num:240 	 evaluate_reward:-109.15658156292209 	
+evaluate_num:241 	 evaluate_reward:-48.533144221385975 	
+evaluate_num:242 	 evaluate_reward:-108.91292904475624 	
+evaluate_num:243 	 evaluate_reward:-104.43135516817706 	
+evaluate_num:244 	 evaluate_reward:-80.65269734483208 	
+evaluate_num:245 	 evaluate_reward:-51.61685760649987 	
+evaluate_num:246 	 evaluate_reward:-85.65720151493053 	
+evaluate_num:247 	 evaluate_reward:-52.34869549543447 	
+evaluate_num:248 	 evaluate_reward:-152.97792691044123 	
+evaluate_num:249 	 evaluate_reward:-62.99387022352696 	
+evaluate_num:250 	 evaluate_reward:-91.52261474161604 	
+evaluate_num:251 	 evaluate_reward:-64.68724776414554 	
+evaluate_num:252 	 evaluate_reward:-107.50195356872591 	
+evaluate_num:253 	 evaluate_reward:-115.00011831459324 	
+evaluate_num:254 	 evaluate_reward:-83.38669963544841 	
+evaluate_num:255 	 evaluate_reward:-100.48763468974471 	
+evaluate_num:256 	 evaluate_reward:-97.65511691256349 	
+evaluate_num:257 	 evaluate_reward:-81.81728673796442 	
+evaluate_num:258 	 evaluate_reward:-80.20148335096263 	
+evaluate_num:259 	 evaluate_reward:-101.96767793509672 	
+evaluate_num:260 	 evaluate_reward:-57.493575105888056 	
+evaluate_num:261 	 evaluate_reward:-56.89086476834027 	
+evaluate_num:262 	 evaluate_reward:-139.35276647041235 	
+evaluate_num:263 	 evaluate_reward:-104.8810839401129 	
+evaluate_num:264 	 evaluate_reward:-129.145403846778 	
+evaluate_num:265 	 evaluate_reward:-120.12701589289038 	
+evaluate_num:266 	 evaluate_reward:-113.12558321703698 	
+evaluate_num:267 	 evaluate_reward:-114.90367404229225 	
+evaluate_num:268 	 evaluate_reward:-76.34438527775013 	
+evaluate_num:269 	 evaluate_reward:-57.348966637670095 	
+evaluate_num:270 	 evaluate_reward:-49.60903341539356 	
+evaluate_num:271 	 evaluate_reward:-79.25072871519107 	
+evaluate_num:272 	 evaluate_reward:-157.80080465518552 	
+evaluate_num:273 	 evaluate_reward:-92.70401309100373 	
+evaluate_num:274 	 evaluate_reward:-71.16770340165162 	
+evaluate_num:275 	 evaluate_reward:-84.33595935412619 	
+evaluate_num:276 	 evaluate_reward:-64.39327057498629 	
+evaluate_num:277 	 evaluate_reward:-83.49922588497375 	
+evaluate_num:278 	 evaluate_reward:-61.24321558480104 	
+evaluate_num:279 	 evaluate_reward:-68.66113146825512 	
+evaluate_num:280 	 evaluate_reward:-49.426180701216374 	
+evaluate_num:281 	 evaluate_reward:-72.48539266053308 	
+evaluate_num:282 	 evaluate_reward:-88.54551307662473 	
+evaluate_num:283 	 evaluate_reward:-90.5548994347671 	
+evaluate_num:284 	 evaluate_reward:-70.31136763196915 	
+evaluate_num:285 	 evaluate_reward:-75.95308937465575 	
+evaluate_num:286 	 evaluate_reward:-117.23854126681168 	
+evaluate_num:287 	 evaluate_reward:-43.63866577728112 	
+evaluate_num:288 	 evaluate_reward:-54.9091321025154 	
+evaluate_num:289 	 evaluate_reward:-64.78791356555224 	
+evaluate_num:290 	 evaluate_reward:-59.4493361213163 	
+evaluate_num:291 	 evaluate_reward:-48.01487278877587 	
+evaluate_num:292 	 evaluate_reward:-50.4961020919232 	
+evaluate_num:293 	 evaluate_reward:-48.02487555179889 	
+evaluate_num:294 	 evaluate_reward:-65.08868050026122 	
+evaluate_num:295 	 evaluate_reward:-53.66694585732751 	
+evaluate_num:296 	 evaluate_reward:-52.23534217727397 	
+evaluate_num:297 	 evaluate_reward:-75.23355861106296 	
+evaluate_num:298 	 evaluate_reward:-53.762834573903795 	
+evaluate_num:299 	 evaluate_reward:-85.63496803805754 	
+evaluate_num:300 	 evaluate_reward:-84.31954235421445 	
+evaluate_num:301 	 evaluate_reward:-81.75739616422139 	
+evaluate_num:302 	 evaluate_reward:-82.14682046988915 	
+evaluate_num:303 	 evaluate_reward:-96.23141615957833 	
+evaluate_num:304 	 evaluate_reward:-80.59326355791869 	
+evaluate_num:305 	 evaluate_reward:-105.1464043106944 	
+evaluate_num:306 	 evaluate_reward:-85.69392956520092 	
+evaluate_num:307 	 evaluate_reward:-48.11140810045993 	
+evaluate_num:308 	 evaluate_reward:-77.14252775476346 	
+evaluate_num:309 	 evaluate_reward:-56.97585848238657 	
+evaluate_num:310 	 evaluate_reward:-59.13039368852679 	
+evaluate_num:311 	 evaluate_reward:-94.90628302041817 	
+evaluate_num:312 	 evaluate_reward:-120.99158078692328 	
+evaluate_num:313 	 evaluate_reward:-51.12605761160476 	
+evaluate_num:314 	 evaluate_reward:-49.492747962577084 	
+evaluate_num:315 	 evaluate_reward:-68.48606876834369 	
+evaluate_num:316 	 evaluate_reward:-65.8272155621052 	
+evaluate_num:317 	 evaluate_reward:-116.65886618102724 	
+evaluate_num:318 	 evaluate_reward:-68.6490179247371 	
+evaluate_num:319 	 evaluate_reward:-64.88981390957998 	
+evaluate_num:320 	 evaluate_reward:-148.6173624704302 	
+evaluate_num:321 	 evaluate_reward:-175.24940342228055 	
+evaluate_num:322 	 evaluate_reward:-67.59476725898183 	
+evaluate_num:323 	 evaluate_reward:-75.74186076347924 	
+evaluate_num:324 	 evaluate_reward:-77.50022943090411 	
+evaluate_num:325 	 evaluate_reward:-115.76503871447677 	
+evaluate_num:326 	 evaluate_reward:-74.58968714526118 	
+evaluate_num:327 	 evaluate_reward:-99.84605227203006 	
+evaluate_num:328 	 evaluate_reward:-169.88610869510504 	
+evaluate_num:329 	 evaluate_reward:-61.700293688050145 	
+evaluate_num:330 	 evaluate_reward:-59.207586035351746 	
+evaluate_num:331 	 evaluate_reward:-56.24433680652039 	
+evaluate_num:332 	 evaluate_reward:-56.85348805068653 	
+evaluate_num:333 	 evaluate_reward:-135.41244053368598 	
+evaluate_num:334 	 evaluate_reward:-49.862036275122286 	
+evaluate_num:335 	 evaluate_reward:-119.97463622413686 	
+evaluate_num:336 	 evaluate_reward:-110.11356991553981 	
+evaluate_num:337 	 evaluate_reward:-47.56325986618324 	
+evaluate_num:338 	 evaluate_reward:-46.78651765828024 	
+evaluate_num:339 	 evaluate_reward:-60.86592607374302 	
+evaluate_num:340 	 evaluate_reward:-72.22430966268043 	
+evaluate_num:341 	 evaluate_reward:-165.6707175909138 	
+evaluate_num:342 	 evaluate_reward:-75.52064949247277 	
+evaluate_num:343 	 evaluate_reward:-45.01637475024412 	
+evaluate_num:344 	 evaluate_reward:-51.844480399801206 	
+evaluate_num:345 	 evaluate_reward:-43.682130934515975 	
+evaluate_num:346 	 evaluate_reward:-67.98543810667177 	
+evaluate_num:347 	 evaluate_reward:-60.50175080683482 	
+evaluate_num:348 	 evaluate_reward:-61.66170174251244 	
+evaluate_num:349 	 evaluate_reward:-79.3575850552448 	
+evaluate_num:350 	 evaluate_reward:-115.16624383077612 	
+evaluate_num:351 	 evaluate_reward:-66.11994027950628 	
+evaluate_num:352 	 evaluate_reward:-86.47580928351942 	
+evaluate_num:353 	 evaluate_reward:-44.812780231891594 	
+evaluate_num:354 	 evaluate_reward:-61.55313487188844 	
+evaluate_num:355 	 evaluate_reward:-64.39781813149487 	
+evaluate_num:356 	 evaluate_reward:-46.543342300753544 	
+evaluate_num:357 	 evaluate_reward:-134.51260741319325 	
+evaluate_num:358 	 evaluate_reward:-54.516636321345466 	
+evaluate_num:359 	 evaluate_reward:-157.10901833023755 	
+evaluate_num:360 	 evaluate_reward:-55.06182553167704 	
+evaluate_num:361 	 evaluate_reward:-128.37788078612746 	
+evaluate_num:362 	 evaluate_reward:-51.041172672195906 	
+evaluate_num:363 	 evaluate_reward:-44.66312868244338 	
+evaluate_num:364 	 evaluate_reward:-67.45839606449466 	
+evaluate_num:365 	 evaluate_reward:-59.40666088150821 	
+evaluate_num:366 	 evaluate_reward:-59.36018860145368 	
+evaluate_num:367 	 evaluate_reward:-47.04085283881394 	
+evaluate_num:368 	 evaluate_reward:-130.66188775598195 	
+evaluate_num:369 	 evaluate_reward:-44.56371312308884 	
+evaluate_num:370 	 evaluate_reward:-53.56015692153201 	
+evaluate_num:371 	 evaluate_reward:-97.5716201714619 	
+evaluate_num:372 	 evaluate_reward:-65.63704382573185 	
+evaluate_num:373 	 evaluate_reward:-131.31567548759537 	
+evaluate_num:374 	 evaluate_reward:-121.67691213612606 	
+evaluate_num:375 	 evaluate_reward:-55.79474385827865 	
+evaluate_num:376 	 evaluate_reward:-129.38431754314053 	
+evaluate_num:377 	 evaluate_reward:-127.79239923033553 	
+evaluate_num:378 	 evaluate_reward:-119.59735472394992 	
+evaluate_num:379 	 evaluate_reward:-45.10549128299192 	
+evaluate_num:380 	 evaluate_reward:-65.58980149432135 	
+evaluate_num:381 	 evaluate_reward:-120.1093126819297 	
+evaluate_num:382 	 evaluate_reward:-73.67012783731772 	
+evaluate_num:383 	 evaluate_reward:-95.5940396060832 	
+evaluate_num:384 	 evaluate_reward:-53.15292810596992 	
+evaluate_num:385 	 evaluate_reward:-69.2788812549936 	
+evaluate_num:386 	 evaluate_reward:-72.98216948769802 	
+evaluate_num:387 	 evaluate_reward:-73.68650448581435 	
+evaluate_num:388 	 evaluate_reward:-50.42761223346442 	
+evaluate_num:389 	 evaluate_reward:-59.36996393656839 	
+evaluate_num:390 	 evaluate_reward:-64.87424087794825 	
+evaluate_num:391 	 evaluate_reward:-157.674576663739 	
+evaluate_num:392 	 evaluate_reward:-97.53276511370159 	
+evaluate_num:393 	 evaluate_reward:-134.63528561757087 	
+evaluate_num:394 	 evaluate_reward:-138.69755355457644 	
+evaluate_num:395 	 evaluate_reward:-128.97310307415978 	
+evaluate_num:396 	 evaluate_reward:-48.56484922342648 	
+evaluate_num:397 	 evaluate_reward:-76.13703278819354 	
+evaluate_num:398 	 evaluate_reward:-122.86637550247887 	
+evaluate_num:399 	 evaluate_reward:-64.85000970058361 	
+evaluate_num:400 	 evaluate_reward:-85.45762203856914 	
+evaluate_num:401 	 evaluate_reward:-99.31000450778701 	
+evaluate_num:402 	 evaluate_reward:-71.73728852689266 	
+evaluate_num:403 	 evaluate_reward:-73.31545854966758 	
+evaluate_num:404 	 evaluate_reward:-49.59006208948029 	
+evaluate_num:405 	 evaluate_reward:-114.88498854394494 	
+evaluate_num:406 	 evaluate_reward:-98.77449770621173 	
+evaluate_num:407 	 evaluate_reward:-59.797011531917825 	
+evaluate_num:408 	 evaluate_reward:-98.41710927831303 	
+evaluate_num:409 	 evaluate_reward:-94.83683447040458 	
+evaluate_num:410 	 evaluate_reward:-59.05710241712483 	
+evaluate_num:411 	 evaluate_reward:-100.43403617357569 	
+evaluate_num:412 	 evaluate_reward:-100.0548828660172 	
+evaluate_num:413 	 evaluate_reward:-57.15864610151251 	
+evaluate_num:414 	 evaluate_reward:-54.67348622156098 	
+evaluate_num:415 	 evaluate_reward:-110.91116158066303 	
+evaluate_num:416 	 evaluate_reward:-135.07404788698796 	
+evaluate_num:417 	 evaluate_reward:-61.98833704049474 	
+evaluate_num:418 	 evaluate_reward:-62.979520278706964 	
+evaluate_num:419 	 evaluate_reward:-158.91767423818501 	
+evaluate_num:420 	 evaluate_reward:-52.43433693161245 	
+evaluate_num:421 	 evaluate_reward:-55.895465199767806 	
+evaluate_num:422 	 evaluate_reward:-66.42406023185545 	
+evaluate_num:423 	 evaluate_reward:-77.14852946003647 	
+evaluate_num:424 	 evaluate_reward:-44.39901040578067 	
+evaluate_num:425 	 evaluate_reward:-99.17922548808592 	
+evaluate_num:426 	 evaluate_reward:-58.76683048573944 	
+evaluate_num:427 	 evaluate_reward:-137.23833261655787 	
+evaluate_num:428 	 evaluate_reward:-55.50023696387563 	
+evaluate_num:429 	 evaluate_reward:-46.677231838066156 	
+evaluate_num:430 	 evaluate_reward:-43.05322634224206 	
+evaluate_num:431 	 evaluate_reward:-65.32250544123347 	
+evaluate_num:432 	 evaluate_reward:-124.36627366212359 	
+evaluate_num:433 	 evaluate_reward:-59.845508138977664 	
+evaluate_num:434 	 evaluate_reward:-43.6591347269572 	
+evaluate_num:435 	 evaluate_reward:-101.09955316348248 	
+evaluate_num:436 	 evaluate_reward:-137.17281477124573 	
+evaluate_num:437 	 evaluate_reward:-65.11748127589271 	
+evaluate_num:438 	 evaluate_reward:-85.38766873363255 	
+evaluate_num:439 	 evaluate_reward:-64.12197508842897 	
+evaluate_num:440 	 evaluate_reward:-60.62900659525505 	
+evaluate_num:441 	 evaluate_reward:-142.82067864287083 	
+evaluate_num:442 	 evaluate_reward:-71.70361963311107 	
+evaluate_num:443 	 evaluate_reward:-47.6170373305358 	
+evaluate_num:444 	 evaluate_reward:-55.16947709171311 	
+evaluate_num:445 	 evaluate_reward:-147.04474255252444 	
+evaluate_num:446 	 evaluate_reward:-50.83928787217379 	
+evaluate_num:447 	 evaluate_reward:-64.26940922995611 	
+evaluate_num:448 	 evaluate_reward:-51.437789090919786 	
+evaluate_num:449 	 evaluate_reward:-99.3947466954811 	
+evaluate_num:450 	 evaluate_reward:-71.22207935250759 	
+evaluate_num:451 	 evaluate_reward:-75.91054856270894 	
+evaluate_num:452 	 evaluate_reward:-78.1000820120967 	
+evaluate_num:453 	 evaluate_reward:-56.607671834794154 	
+evaluate_num:454 	 evaluate_reward:-46.54053232992003 	
+evaluate_num:455 	 evaluate_reward:-65.10563212502659 	
+evaluate_num:456 	 evaluate_reward:-59.59542400120674 	
+evaluate_num:457 	 evaluate_reward:-144.73444689898838 	
+evaluate_num:458 	 evaluate_reward:-66.01956345193115 	
+evaluate_num:459 	 evaluate_reward:-67.87011792588697 	
+evaluate_num:460 	 evaluate_reward:-78.74034728326792 	
+evaluate_num:461 	 evaluate_reward:-139.39208588588494 	
+evaluate_num:462 	 evaluate_reward:-122.98197845162171 	
+evaluate_num:463 	 evaluate_reward:-125.11386864082324 	
+evaluate_num:464 	 evaluate_reward:-108.95464218085287 	
+evaluate_num:465 	 evaluate_reward:-48.29751428604262 	
+evaluate_num:466 	 evaluate_reward:-60.68230208063833 	
+evaluate_num:467 	 evaluate_reward:-54.27489230916947 	
+evaluate_num:468 	 evaluate_reward:-73.53289792961357 	
+evaluate_num:469 	 evaluate_reward:-70.05078138089424 	
+evaluate_num:470 	 evaluate_reward:-72.60027918226484 	
+evaluate_num:471 	 evaluate_reward:-101.83250368567074 	
+evaluate_num:472 	 evaluate_reward:-59.8471233729198 	
+evaluate_num:473 	 evaluate_reward:-70.76796286405772 	
+evaluate_num:474 	 evaluate_reward:-157.1189595319419 	
+evaluate_num:475 	 evaluate_reward:-82.77740438206064 	
+evaluate_num:476 	 evaluate_reward:-86.71558923305129 	
+evaluate_num:477 	 evaluate_reward:-57.48062509377479 	
+evaluate_num:478 	 evaluate_reward:-128.77917601657987 	
+evaluate_num:479 	 evaluate_reward:-103.7143793071253 	
+evaluate_num:480 	 evaluate_reward:-112.0385448159977 	
+evaluate_num:481 	 evaluate_reward:-201.97320635988004 	
+evaluate_num:482 	 evaluate_reward:-72.70487151696643 	
+evaluate_num:483 	 evaluate_reward:-79.65576895678551 	
+evaluate_num:484 	 evaluate_reward:-93.96256690158617 	
+evaluate_num:485 	 evaluate_reward:-56.554517994438676 	
+evaluate_num:486 	 evaluate_reward:-63.192190061289615 	
+evaluate_num:487 	 evaluate_reward:-75.42499307683978 	
+evaluate_num:488 	 evaluate_reward:-138.05681982216922 	
+evaluate_num:489 	 evaluate_reward:-52.76098839712785 	
+evaluate_num:490 	 evaluate_reward:-178.3558196781511 	
+evaluate_num:491 	 evaluate_reward:-94.24514469203534 	
+evaluate_num:492 	 evaluate_reward:-68.35722781657405 	
+evaluate_num:493 	 evaluate_reward:-68.55119218934708 	
+evaluate_num:494 	 evaluate_reward:-54.084659903502505 	
+evaluate_num:495 	 evaluate_reward:-173.0807751071054 	
+evaluate_num:496 	 evaluate_reward:-89.00104826690729 	
+evaluate_num:497 	 evaluate_reward:-217.21521907295127 	
+evaluate_num:498 	 evaluate_reward:-138.31370541362006 	
+evaluate_num:499 	 evaluate_reward:-108.19415911172793 	
+evaluate_num:500 	 evaluate_reward:-99.06016378852962 	
+evaluate_num:501 	 evaluate_reward:-235.23623589790313 	
+evaluate_num:502 	 evaluate_reward:-78.01870662908267 	
+evaluate_num:503 	 evaluate_reward:-113.8898299974068 	
+evaluate_num:504 	 evaluate_reward:-357.46154184326423 	
+evaluate_num:505 	 evaluate_reward:-306.1848298311958 	
+evaluate_num:506 	 evaluate_reward:-88.57004887445429 	
+evaluate_num:507 	 evaluate_reward:-141.63205745670638 	
+evaluate_num:508 	 evaluate_reward:-77.53305525371913 	
+evaluate_num:509 	 evaluate_reward:-388.1638466135634 	
+evaluate_num:510 	 evaluate_reward:-175.2420445200851 	
+evaluate_num:511 	 evaluate_reward:-103.9664753249715 	
+evaluate_num:512 	 evaluate_reward:-52.976855466263196 	
+evaluate_num:513 	 evaluate_reward:-59.24077854375571 	
+evaluate_num:514 	 evaluate_reward:-92.89184293386246 	
+evaluate_num:515 	 evaluate_reward:-77.19014650381558 	
+evaluate_num:516 	 evaluate_reward:-160.34651877941099 	
+evaluate_num:517 	 evaluate_reward:-47.62943054207454 	
+evaluate_num:518 	 evaluate_reward:-53.66368269559978 	
+evaluate_num:519 	 evaluate_reward:-70.01458556811424 	
+evaluate_num:520 	 evaluate_reward:-89.27793734760098 	
+evaluate_num:521 	 evaluate_reward:-104.93148414489747 	
+evaluate_num:522 	 evaluate_reward:-88.25039976597027 	
+evaluate_num:523 	 evaluate_reward:-90.41723887345101 	
+evaluate_num:524 	 evaluate_reward:-207.66856153578888 	
+evaluate_num:525 	 evaluate_reward:-117.4553093008024 	
+evaluate_num:526 	 evaluate_reward:-51.62836886624169 	
+evaluate_num:527 	 evaluate_reward:-44.23305566237502 	
+evaluate_num:528 	 evaluate_reward:-295.07354781920003 	
+evaluate_num:529 	 evaluate_reward:-64.5416582657101 	
+evaluate_num:530 	 evaluate_reward:-89.65894406700998 	
+evaluate_num:531 	 evaluate_reward:-151.348421925854 	
+evaluate_num:532 	 evaluate_reward:-75.13885789606394 	
+evaluate_num:533 	 evaluate_reward:-174.61275838255423 	
+evaluate_num:534 	 evaluate_reward:-99.00561182168856 	
+evaluate_num:535 	 evaluate_reward:-96.82353659174021 	
+evaluate_num:536 	 evaluate_reward:-56.00939574000902 	
+evaluate_num:537 	 evaluate_reward:-51.93425828879476 	
+evaluate_num:538 	 evaluate_reward:-108.01426458050844 	
+evaluate_num:539 	 evaluate_reward:-63.71445938053154 	
+evaluate_num:540 	 evaluate_reward:-227.77306728510408 	
+evaluate_num:541 	 evaluate_reward:-47.866724836783476 	
+evaluate_num:542 	 evaluate_reward:-125.03777601408801 	
+evaluate_num:543 	 evaluate_reward:-72.91224734120934 	
+evaluate_num:544 	 evaluate_reward:-74.36264014579957 	
+evaluate_num:545 	 evaluate_reward:-47.05724700400204 	
+evaluate_num:546 	 evaluate_reward:-67.49894936053195 	
+evaluate_num:547 	 evaluate_reward:-97.3147979529686 	
+evaluate_num:548 	 evaluate_reward:-54.62889790291167 	
+evaluate_num:549 	 evaluate_reward:-141.1443832158551 	
+evaluate_num:550 	 evaluate_reward:-47.16132975257912 	
+evaluate_num:551 	 evaluate_reward:-52.88329918912607 	
+evaluate_num:552 	 evaluate_reward:-223.68593325020473 	
+evaluate_num:553 	 evaluate_reward:-56.4503378463123 	
+evaluate_num:554 	 evaluate_reward:-80.5809168574554 	
+evaluate_num:555 	 evaluate_reward:-56.639787833791495 	
+evaluate_num:556 	 evaluate_reward:-58.30976226620382 	
+evaluate_num:557 	 evaluate_reward:-70.68769896821955 	
+evaluate_num:558 	 evaluate_reward:-114.96896261626345 	
+evaluate_num:559 	 evaluate_reward:-74.66030144915645 	
+evaluate_num:560 	 evaluate_reward:-76.12607912107136 	
+evaluate_num:561 	 evaluate_reward:-50.88137276770036 	
+evaluate_num:562 	 evaluate_reward:-58.49394530287955 	
+evaluate_num:563 	 evaluate_reward:-141.27208212375663 	
+evaluate_num:564 	 evaluate_reward:-128.04314496245908 	
+evaluate_num:565 	 evaluate_reward:-54.718350475947005 	
+evaluate_num:566 	 evaluate_reward:-63.79136527707792 	
+evaluate_num:567 	 evaluate_reward:-70.16792221045397 	
+evaluate_num:568 	 evaluate_reward:-42.011516555239545 	
+evaluate_num:569 	 evaluate_reward:-58.64503212097414 	
+evaluate_num:570 	 evaluate_reward:-71.33153230075003 	
+evaluate_num:571 	 evaluate_reward:-78.01448411833253 	
+evaluate_num:572 	 evaluate_reward:-60.03574450453677 	
+evaluate_num:573 	 evaluate_reward:-84.68319994120101 	
+evaluate_num:574 	 evaluate_reward:-121.66393510092105 	
+evaluate_num:575 	 evaluate_reward:-51.15486170789419 	
+evaluate_num:576 	 evaluate_reward:-44.193921459525264 	
+evaluate_num:577 	 evaluate_reward:-100.54772845732454 	
+evaluate_num:578 	 evaluate_reward:-50.55507105041368 	
+evaluate_num:579 	 evaluate_reward:-59.417758101202914 	
+evaluate_num:580 	 evaluate_reward:-44.45983959074795 	
+evaluate_num:581 	 evaluate_reward:-48.1455325220651 	
+evaluate_num:582 	 evaluate_reward:-43.45225343150077 	
+evaluate_num:583 	 evaluate_reward:-142.22908101255857 	
+evaluate_num:584 	 evaluate_reward:-171.02313200102807 	
+evaluate_num:585 	 evaluate_reward:-44.75587000081876 	
+evaluate_num:586 	 evaluate_reward:-115.69583869760662 	
+evaluate_num:587 	 evaluate_reward:-58.583738819038196 	
+evaluate_num:588 	 evaluate_reward:-60.20184983470535 	
+evaluate_num:589 	 evaluate_reward:-125.6277831072688 	
+evaluate_num:590 	 evaluate_reward:-72.49460404243558 	
+evaluate_num:591 	 evaluate_reward:-108.58605726881414 	
+evaluate_num:592 	 evaluate_reward:-88.8067548517703 	
+evaluate_num:593 	 evaluate_reward:-69.89462005350546 	
+evaluate_num:594 	 evaluate_reward:-68.61454924053427 	
+evaluate_num:595 	 evaluate_reward:-71.32966263592301 	
+evaluate_num:596 	 evaluate_reward:-156.07449623313008 	
+evaluate_num:597 	 evaluate_reward:-75.8815061610061 	
+evaluate_num:598 	 evaluate_reward:-47.785774726638124 	
+evaluate_num:599 	 evaluate_reward:-56.25564092785991 	
+evaluate_num:600 	 evaluate_reward:-65.8113261824852 	
+...save model to /home/yangjunfeng/Verify/Verify/AdaptiveCar/policy/AdaptiveCar_actorlevel_2_avgnew.pth ...
+------use_orthogonal_init------
+------use_orthogonal_init------
+...load... /home/yangjunfeng/Verify/Verify/AdaptiveCar/policy/AdaptiveCar_actorlevel_2_avgnew.pth net
+Starting for verification of region: [-3.9999, 4.0001, 1.99999, 9.99999]
+start state:
+start state:
+Steps : 0    |    Transition Size : 9000    |    Time Cost: 0
+Steps : 1    |    Transition Size : 27000    |    Time Cost: 2.9746432304382324
+Steps : 2    |    Transition Size : 28202    |    Time Cost: 8.358064413070679
+Steps : 3    |    Transition Size : 29484    |    Time Cost: 8.718715906143188
+Steps : 4    |    Transition Size : 31158    |    Time Cost: 9.116452932357788
+Steps : 5    |    Transition Size : 32626    |    Time Cost: 9.591826677322388
+Steps : 6    |    Transition Size : 34170    |    Time Cost: 10.078206777572632
+Steps : 7    |    Transition Size : 35812    |    Time Cost: 10.531349658966064
+Steps : 8    |    Transition Size : 37848    |    Time Cost: 11.008632183074951
+Steps : 9    |    Transition Size : 39684    |    Time Cost: 11.639864206314087
+Steps : 10    |    Transition Size : 41548    |    Time Cost: 12.162158250808716
+Steps : 11    |    Transition Size : 43212    |    Time Cost: 12.671302795410156
+Steps : 12    |    Transition Size : 45094    |    Time Cost: 13.149439573287964
+Steps : 13    |    Transition Size : 46630    |    Time Cost: 13.669155359268188
+Steps : 14    |    Transition Size : 48122    |    Time Cost: 14.127145528793335
+Steps : 15    |    Transition Size : 49610    |    Time Cost: 14.562040567398071
+Steps : 16    |    Transition Size : 51374    |    Time Cost: 15.026869058609009
+Steps : 17    |    Transition Size : 52824    |    Time Cost: 15.53408169746399
+Steps : 18    |    Transition Size : 54262    |    Time Cost: 15.977164268493652
+Steps : 19    |    Transition Size : 55734    |    Time Cost: 16.402996063232422
+Steps : 20    |    Transition Size : 57208    |    Time Cost: 16.854682445526123
+Steps : 21    |    Transition Size : 58712    |    Time Cost: 17.264038562774658
+Steps : 22    |    Transition Size : 60220    |    Time Cost: 17.739872694015503
+Steps : 23    |    Transition Size : 61766    |    Time Cost: 18.195873975753784
+Steps : 24    |    Transition Size : 63352    |    Time Cost: 18.652714014053345
+Steps : 25    |    Transition Size : 65012    |    Time Cost: 19.140851974487305
+Steps : 26    |    Transition Size : 66722    |    Time Cost: 19.63886594772339
+Steps : 27    |    Transition Size : 68474    |    Time Cost: 20.190020084381104
+Steps : 28    |    Transition Size : 70298    |    Time Cost: 20.706056594848633
+Steps : 29    |    Transition Size : 72172    |    Time Cost: 21.237432956695557
+Steps : 30    |    Transition Size : 74112    |    Time Cost: 21.8406925201416
+Steps : 31    |    Transition Size : 76104    |    Time Cost: 22.417384386062622
+Steps : 32    |    Transition Size : 78182    |    Time Cost: 23.032357454299927
+Steps : 33    |    Transition Size : 80312    |    Time Cost: 23.644129037857056
+Steps : 34    |    Transition Size : 82528    |    Time Cost: 24.285837411880493
+Steps : 35    |    Transition Size : 84782    |    Time Cost: 25.012378215789795
+Steps : 36    |    Transition Size : 87100    |    Time Cost: 25.68344235420227
+Steps : 37    |    Transition Size : 89468    |    Time Cost: 26.42826795578003
+Steps : 38    |    Transition Size : 91892    |    Time Cost: 27.151220083236694
+Steps : 39    |    Transition Size : 94362    |    Time Cost: 27.887086391448975
+Steps : 40    |    Transition Size : 96908    |    Time Cost: 28.644500494003296
+Steps : 41    |    Transition Size : 99520    |    Time Cost: 29.38295578956604
+Steps : 42    |    Transition Size : 102208    |    Time Cost: 30.215409517288208
+Steps : 43    |    Transition Size : 104974    |    Time Cost: 31.034448623657227
+Steps : 44    |    Transition Size : 107804    |    Time Cost: 31.856491088867188
+Steps : 45    |    Transition Size : 110676    |    Time Cost: 32.72827482223511
+Steps : 46    |    Transition Size : 113640    |    Time Cost: 33.59040689468384
+Steps : 47    |    Transition Size : 116680    |    Time Cost: 34.52888083457947
+Steps : 48    |    Transition Size : 119750    |    Time Cost: 35.431474924087524
+Steps : 49    |    Transition Size : 122920    |    Time Cost: 36.34645104408264
+Steps : 50    |    Transition Size : 126172    |    Time Cost: 37.34145426750183
+Steps : 51    |    Transition Size : 129482    |    Time Cost: 38.349851846694946
+Steps : 52    |    Transition Size : 132860    |    Time Cost: 39.36644458770752
+Steps : 53    |    Transition Size : 136336    |    Time Cost: 40.365092515945435
+Steps : 54    |    Transition Size : 139862    |    Time Cost: 41.41678595542908
+Steps : 55    |    Transition Size : 143462    |    Time Cost: 42.52970361709595
+Steps : 56    |    Transition Size : 147148    |    Time Cost: 43.58937406539917
+Steps : 57    |    Transition Size : 150906    |    Time Cost: 44.72256422042847
+Steps : 58    |    Transition Size : 154754    |    Time Cost: 45.861045122146606
+Steps : 59    |    Transition Size : 158716    |    Time Cost: 47.062774419784546
+Steps : 60    |    Transition Size : 162728    |    Time Cost: 48.25289535522461
+-------------------------------------------------------------- 
+Model type: 	MDP (sparse)
+States: 	162728
+Transitions: 	830426
+Choices: 	417716
+Reward Models:  none
+State Labels: 	2 labels
+   * init -> 0 item(s)
+   * unsafe -> 994 item(s)
+Choice Labels: 	none
+-------------------------------------------------------------- 
+
+-------------Verifying the  MDP in 0 steps----------
+Check the DTMC by Storm, cost time: [ 0.008713722229003906 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 0 steps---------
+step= 0 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 5 steps----------
+Check the DTMC by Storm, cost time: [ 0.007288694381713867 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 5 steps---------
+step= 5 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 10 steps----------
+Check the DTMC by Storm, cost time: [ 0.009495258331298828 ]
+The result of Check MDP by Storm : 1.2974039789529988e-06
+---------Start Simulating in 10 steps---------
+step= 10 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 15 steps----------
+Check the DTMC by Storm, cost time: [ 0.011565923690795898 ]
+The result of Check MDP by Storm : 0.0164909301557994
+---------Start Simulating in 15 steps---------
+step= 15 unsafecount= 53 the simulated unsafe prob: 0.0053
+-------------Verifying the  MDP in 20 steps----------
+Check the DTMC by Storm, cost time: [ 0.015176773071289062 ]
+The result of Check MDP by Storm : 0.04859889306575469
+---------Start Simulating in 20 steps---------
+step= 20 unsafecount= 286 the simulated unsafe prob: 0.0286
+-------------Verifying the  MDP in 25 steps----------
+Check the DTMC by Storm, cost time: [ 0.01930975914001465 ]
+The result of Check MDP by Storm : 0.0791941318330989
+---------Start Simulating in 25 steps---------
+step= 25 unsafecount= 518 the simulated unsafe prob: 0.0518
+-------------Verifying the  MDP in 30 steps----------
+Check the DTMC by Storm, cost time: [ 0.02458977699279785 ]
+The result of Check MDP by Storm : 0.10963993073266036
+---------Start Simulating in 30 steps---------
+step= 30 unsafecount= 733 the simulated unsafe prob: 0.0733
+-------------Verifying the  MDP in 35 steps----------
+Check the DTMC by Storm, cost time: [ 0.03166365623474121 ]
+The result of Check MDP by Storm : 0.14454050529725285
+---------Start Simulating in 35 steps---------
+step= 35 unsafecount= 866 the simulated unsafe prob: 0.0866
+-------------Verifying the  MDP in 40 steps----------
+Check the DTMC by Storm, cost time: [ 0.03897809982299805 ]
+The result of Check MDP by Storm : 0.1914477457728303
+---------Start Simulating in 40 steps---------
+step= 40 unsafecount= 1045 the simulated unsafe prob: 0.1045
+-------------Verifying the  MDP in 45 steps----------
+Check the DTMC by Storm, cost time: [ 0.047858238220214844 ]
+The result of Check MDP by Storm : 0.25118718087492337
+---------Start Simulating in 45 steps---------
+step= 45 unsafecount= 1199 the simulated unsafe prob: 0.1199
+-------------Verifying the  MDP in 50 steps----------
+Check the DTMC by Storm, cost time: [ 0.057967424392700195 ]
+The result of Check MDP by Storm : 0.31602206470923355
+---------Start Simulating in 50 steps---------
+step= 50 unsafecount= 1457 the simulated unsafe prob: 0.1457
+-------------Verifying the  MDP in 55 steps----------
+Check the DTMC by Storm, cost time: [ 0.06972169876098633 ]
+The result of Check MDP by Storm : 0.3822959721830789
+---------Start Simulating in 55 steps---------
+step= 55 unsafecount= 1767 the simulated unsafe prob: 0.1767
+-------------Verifying the  MDP in 60 steps----------
+Check the DTMC by Storm, cost time: [ 0.08046221733093262 ]
+The result of Check MDP by Storm : 0.44955486028532166
+---------Start Simulating in 60 steps---------
+step= 60 unsafecount= 2183 the simulated unsafe prob: 0.2183
+------use_orthogonal_init------
+------use_orthogonal_init------
+...load... /home/yangjunfeng/Verify/Verify/AdaptiveCar/policy/AdaptiveCar_actorlevel_2_avgnew.pth net
+Starting for verification of region: [-4.9999, 6.5001, 0.99999, 13.99999]
+start state:
+start state:
+Steps : 0    |    Transition Size : 11280    |    Time Cost: 0
+Steps : 1    |    Transition Size : 33840    |    Time Cost: 3.7721779346466064
+Steps : 2    |    Transition Size : 35344    |    Time Cost: 10.530243158340454
+Steps : 3    |    Transition Size : 37304    |    Time Cost: 10.965209007263184
+Steps : 4    |    Transition Size : 39362    |    Time Cost: 11.612473964691162
+Steps : 5    |    Transition Size : 41128    |    Time Cost: 12.188326120376587
+Steps : 6    |    Transition Size : 43366    |    Time Cost: 12.759567499160767
+Steps : 7    |    Transition Size : 45706    |    Time Cost: 13.408501386642456
+Steps : 8    |    Transition Size : 47748    |    Time Cost: 14.097034931182861
+Steps : 9    |    Transition Size : 49872    |    Time Cost: 14.779993772506714
+Steps : 10    |    Transition Size : 52496    |    Time Cost: 15.390101194381714
+Steps : 11    |    Transition Size : 54840    |    Time Cost: 16.211392641067505
+Steps : 12    |    Transition Size : 57282    |    Time Cost: 16.94133186340332
+Steps : 13    |    Transition Size : 59656    |    Time Cost: 17.62396812438965
+Steps : 14    |    Transition Size : 62134    |    Time Cost: 18.258005142211914
+Steps : 15    |    Transition Size : 64070    |    Time Cost: 18.94516658782959
+Steps : 16    |    Transition Size : 65922    |    Time Cost: 19.517247676849365
+Steps : 17    |    Transition Size : 67732    |    Time Cost: 20.035232067108154
+Steps : 18    |    Transition Size : 69878    |    Time Cost: 20.586590051651
+Steps : 19    |    Transition Size : 71634    |    Time Cost: 21.209182500839233
+Steps : 20    |    Transition Size : 73366    |    Time Cost: 21.705278635025024
+Steps : 21    |    Transition Size : 75066    |    Time Cost: 22.23910164833069
+Steps : 22    |    Transition Size : 77140    |    Time Cost: 22.762653589248657
+Steps : 23    |    Transition Size : 78810    |    Time Cost: 23.33366084098816
+Steps : 24    |    Transition Size : 80462    |    Time Cost: 23.84749674797058
+Steps : 25    |    Transition Size : 82136    |    Time Cost: 24.32970094680786
+Steps : 26    |    Transition Size : 83854    |    Time Cost: 24.86037850379944
+Steps : 27    |    Transition Size : 85624    |    Time Cost: 25.348488092422485
+Steps : 28    |    Transition Size : 87440    |    Time Cost: 25.939307689666748
+Steps : 29    |    Transition Size : 89316    |    Time Cost: 26.487379550933838
+Steps : 30    |    Transition Size : 91216    |    Time Cost: 27.0611629486084
+Steps : 31    |    Transition Size : 93180    |    Time Cost: 27.647756099700928
+Steps : 32    |    Transition Size : 95198    |    Time Cost: 28.231608867645264
+Steps : 33    |    Transition Size : 97276    |    Time Cost: 28.885361909866333
+Steps : 34    |    Transition Size : 99402    |    Time Cost: 29.49581003189087
+Steps : 35    |    Transition Size : 101586    |    Time Cost: 30.12091064453125
+Steps : 36    |    Transition Size : 103828    |    Time Cost: 30.82443857192993
+Steps : 37    |    Transition Size : 106128    |    Time Cost: 31.49304175376892
+Steps : 38    |    Transition Size : 108502    |    Time Cost: 32.216256856918335
+Steps : 39    |    Transition Size : 110936    |    Time Cost: 32.933727502822876
+Steps : 40    |    Transition Size : 113434    |    Time Cost: 33.705015420913696
+Steps : 41    |    Transition Size : 116006    |    Time Cost: 34.53534507751465
+Steps : 42    |    Transition Size : 118616    |    Time Cost: 35.280423402786255
+Steps : 43    |    Transition Size : 121290    |    Time Cost: 36.087843894958496
+Steps : 44    |    Transition Size : 124024    |    Time Cost: 36.91297006607056
+Steps : 45    |    Transition Size : 126806    |    Time Cost: 37.73471736907959
+Steps : 46    |    Transition Size : 129622    |    Time Cost: 38.592695236206055
+Steps : 47    |    Transition Size : 132524    |    Time Cost: 39.43991565704346
+Steps : 48    |    Transition Size : 135492    |    Time Cost: 40.37425661087036
+Steps : 49    |    Transition Size : 138504    |    Time Cost: 41.28613805770874
+Steps : 50    |    Transition Size : 141592    |    Time Cost: 42.178470849990845
+Steps : 51    |    Transition Size : 144752    |    Time Cost: 43.13322615623474
+Steps : 52    |    Transition Size : 147990    |    Time Cost: 44.08102989196777
+Steps : 53    |    Transition Size : 151276    |    Time Cost: 45.114581823349
+Steps : 54    |    Transition Size : 154638    |    Time Cost: 46.09112191200256
+Steps : 55    |    Transition Size : 158076    |    Time Cost: 47.085943937301636
+Steps : 56    |    Transition Size : 161588    |    Time Cost: 48.17637085914612
+Steps : 57    |    Transition Size : 165160    |    Time Cost: 49.235137939453125
+Steps : 58    |    Transition Size : 168814    |    Time Cost: 50.34447503089905
+Steps : 59    |    Transition Size : 172540    |    Time Cost: 51.43697142601013
+Steps : 60    |    Transition Size : 176338    |    Time Cost: 52.57486176490784
+-------------------------------------------------------------- 
+Model type: 	MDP (sparse)
+States: 	176338
+Transitions: 	895892
+Choices: 	450561
+Reward Models:  none
+State Labels: 	2 labels
+   * init -> 0 item(s)
+   * unsafe -> 1432 item(s)
+Choice Labels: 	none
+-------------------------------------------------------------- 
+
+-------------Verifying the  MDP in 0 steps----------
+Check the DTMC by Storm, cost time: [ 0.0074236392974853516 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 0 steps---------
+step= 0 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 5 steps----------
+Check the DTMC by Storm, cost time: [ 0.008903264999389648 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 5 steps---------
+step= 5 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 10 steps----------
+Check the DTMC by Storm, cost time: [ 0.011012792587280273 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 10 steps---------
+step= 10 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 15 steps----------
+Check the DTMC by Storm, cost time: [ 0.014044761657714844 ]
+The result of Check MDP by Storm : 0.012340339193547293
+---------Start Simulating in 15 steps---------
+step= 15 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 20 steps----------
+Check the DTMC by Storm, cost time: [ 0.018572330474853516 ]
+The result of Check MDP by Storm : 0.06114205338355844
+---------Start Simulating in 20 steps---------
+step= 20 unsafecount= 125 the simulated unsafe prob: 0.0125
+-------------Verifying the  MDP in 25 steps----------
+Check the DTMC by Storm, cost time: [ 0.024158000946044922 ]
+The result of Check MDP by Storm : 0.11815585513837304
+---------Start Simulating in 25 steps---------
+step= 25 unsafecount= 410 the simulated unsafe prob: 0.041
+-------------Verifying the  MDP in 30 steps----------
+Check the DTMC by Storm, cost time: [ 0.031286001205444336 ]
+The result of Check MDP by Storm : 0.1677437794775653
+---------Start Simulating in 30 steps---------
+step= 30 unsafecount= 709 the simulated unsafe prob: 0.0709
+-------------Verifying the  MDP in 35 steps----------
+Check the DTMC by Storm, cost time: [ 0.03987693786621094 ]
+The result of Check MDP by Storm : 0.186496525768112
+---------Start Simulating in 35 steps---------
+step= 35 unsafecount= 982 the simulated unsafe prob: 0.0982
+-------------Verifying the  MDP in 40 steps----------
+Check the DTMC by Storm, cost time: [ 0.0501556396484375 ]
+The result of Check MDP by Storm : 0.20116939821883675
+---------Start Simulating in 40 steps---------
+step= 40 unsafecount= 1107 the simulated unsafe prob: 0.1107
+-------------Verifying the  MDP in 45 steps----------
+Check the DTMC by Storm, cost time: [ 0.06351065635681152 ]
+The result of Check MDP by Storm : 0.2184430216348043
+---------Start Simulating in 45 steps---------
+step= 45 unsafecount= 1305 the simulated unsafe prob: 0.1305
+-------------Verifying the  MDP in 50 steps----------
+Check the DTMC by Storm, cost time: [ 0.07463979721069336 ]
+The result of Check MDP by Storm : 0.23993711742485418
+---------Start Simulating in 50 steps---------
+step= 50 unsafecount= 1413 the simulated unsafe prob: 0.1413
+-------------Verifying the  MDP in 55 steps----------
+Check the DTMC by Storm, cost time: [ 0.08861136436462402 ]
+The result of Check MDP by Storm : 0.26653285928490844
+---------Start Simulating in 55 steps---------
+step= 55 unsafecount= 1635 the simulated unsafe prob: 0.1635
+-------------Verifying the  MDP in 60 steps----------
+Check the DTMC by Storm, cost time: [ 0.10370755195617676 ]
+The result of Check MDP by Storm : 0.2994078200777874
+---------Start Simulating in 60 steps---------
+step= 60 unsafecount= 1739 the simulated unsafe prob: 0.1739
+------use_orthogonal_init------
+------use_orthogonal_init------
+...load... /home/yangjunfeng/Verify/Verify/AdaptiveCar/policy/AdaptiveCar_actorlevel_2_avgnew.pth net
+Starting for verification of region: [-5.9999, 9.5001, -1e-05, 18.99999]
+start state:
+start state:
+Steps : 0    |    Transition Size : 14280    |    Time Cost: 0
+Steps : 1    |    Transition Size : 42840    |    Time Cost: 4.729364395141602
+Steps : 2    |    Transition Size : 44788    |    Time Cost: 13.381952285766602
+Steps : 3    |    Transition Size : 46818    |    Time Cost: 13.998974323272705
+Steps : 4    |    Transition Size : 49404    |    Time Cost: 14.620242595672607
+Steps : 5    |    Transition Size : 51600    |    Time Cost: 15.356047868728638
+Steps : 6    |    Transition Size : 53882    |    Time Cost: 16.089009046554565
+Steps : 7    |    Transition Size : 56256    |    Time Cost: 16.767820596694946
+Steps : 8    |    Transition Size : 58700    |    Time Cost: 17.429794549942017
+Steps : 9    |    Transition Size : 61250    |    Time Cost: 18.22111415863037
+Steps : 10    |    Transition Size : 63884    |    Time Cost: 18.974101543426514
+Steps : 11    |    Transition Size : 66610    |    Time Cost: 19.80937123298645
+Steps : 12    |    Transition Size : 69920    |    Time Cost: 20.610939502716064
+Steps : 13    |    Transition Size : 73350    |    Time Cost: 21.616514444351196
+Steps : 14    |    Transition Size : 76378    |    Time Cost: 22.689082622528076
+Steps : 15    |    Transition Size : 80030    |    Time Cost: 23.62208890914917
+Steps : 16    |    Transition Size : 83238    |    Time Cost: 24.593931198120117
+Steps : 17    |    Transition Size : 85738    |    Time Cost: 25.442439079284668
+Steps : 18    |    Transition Size : 88070    |    Time Cost: 26.178428649902344
+Steps : 19    |    Transition Size : 90860    |    Time Cost: 26.885507345199585
+Steps : 20    |    Transition Size : 93002    |    Time Cost: 27.643995761871338
+Steps : 21    |    Transition Size : 95086    |    Time Cost: 28.292881965637207
+Steps : 22    |    Transition Size : 97086    |    Time Cost: 28.876218795776367
+Steps : 23    |    Transition Size : 99562    |    Time Cost: 29.470630407333374
+Steps : 24    |    Transition Size : 101468    |    Time Cost: 30.202093362808228
+Steps : 25    |    Transition Size : 103348    |    Time Cost: 30.744653940200806
+Steps : 26    |    Transition Size : 105196    |    Time Cost: 31.27940583229065
+Steps : 27    |    Transition Size : 107546    |    Time Cost: 31.8636577129364
+Steps : 28    |    Transition Size : 109350    |    Time Cost: 32.53475308418274
+Steps : 29    |    Transition Size : 111156    |    Time Cost: 33.05962014198303
+Steps : 30    |    Transition Size : 112986    |    Time Cost: 33.62282586097717
+Steps : 31    |    Transition Size : 115382    |    Time Cost: 34.25194048881531
+Steps : 32    |    Transition Size : 117288    |    Time Cost: 34.92498540878296
+Steps : 33    |    Transition Size : 119260    |    Time Cost: 35.521039962768555
+Steps : 34    |    Transition Size : 121284    |    Time Cost: 36.10469388961792
+Steps : 35    |    Transition Size : 123346    |    Time Cost: 36.75956654548645
+Steps : 36    |    Transition Size : 125446    |    Time Cost: 37.37034463882446
+Steps : 37    |    Transition Size : 127592    |    Time Cost: 38.08373260498047
+Steps : 38    |    Transition Size : 129786    |    Time Cost: 38.726696252822876
+Steps : 39    |    Transition Size : 132030    |    Time Cost: 39.36191940307617
+Steps : 40    |    Transition Size : 134352    |    Time Cost: 40.05526375770569
+Steps : 41    |    Transition Size : 136690    |    Time Cost: 40.741058588027954
+Steps : 42    |    Transition Size : 139086    |    Time Cost: 41.51032781600952
+Steps : 43    |    Transition Size : 141560    |    Time Cost: 42.21283578872681
+Steps : 44    |    Transition Size : 144080    |    Time Cost: 42.9418842792511
+Steps : 45    |    Transition Size : 146660    |    Time Cost: 43.758663177490234
+Steps : 46    |    Transition Size : 149344    |    Time Cost: 44.52949333190918
+Steps : 47    |    Transition Size : 152056    |    Time Cost: 45.363951444625854
+Steps : 48    |    Transition Size : 154808    |    Time Cost: 46.16327500343323
+Steps : 49    |    Transition Size : 157642    |    Time Cost: 46.99648976325989
+Steps : 50    |    Transition Size : 160520    |    Time Cost: 47.93563365936279
+Steps : 51    |    Transition Size : 163420    |    Time Cost: 48.80296468734741
+Steps : 52    |    Transition Size : 166384    |    Time Cost: 49.69865441322327
+Steps : 53    |    Transition Size : 169408    |    Time Cost: 50.60895299911499
+Steps : 54    |    Transition Size : 172494    |    Time Cost: 51.52383375167847
+Steps : 55    |    Transition Size : 175608    |    Time Cost: 52.476452112197876
+Steps : 56    |    Transition Size : 178816    |    Time Cost: 53.37619876861572
+Steps : 57    |    Transition Size : 182082    |    Time Cost: 54.41900038719177
+Steps : 58    |    Transition Size : 185418    |    Time Cost: 55.42344069480896
+Steps : 59    |    Transition Size : 188786    |    Time Cost: 56.40878248214722
+Steps : 60    |    Transition Size : 192256    |    Time Cost: 57.45816135406494
+-------------------------------------------------------------- 
+Model type: 	MDP (sparse)
+States: 	192256
+Transitions: 	974458
+Choices: 	489950
+Reward Models:  none
+State Labels: 	2 labels
+   * init -> 0 item(s)
+   * unsafe -> 1972 item(s)
+Choice Labels: 	none
+-------------------------------------------------------------- 
+
+-------------Verifying the  MDP in 0 steps----------
+Check the DTMC by Storm, cost time: [ 0.008309602737426758 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 0 steps---------
+step= 0 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 5 steps----------
+Check the DTMC by Storm, cost time: [ 0.010096549987792969 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 5 steps---------
+step= 5 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 10 steps----------
+Check the DTMC by Storm, cost time: [ 0.013489723205566406 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 10 steps---------
+step= 10 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 15 steps----------
+Check the DTMC by Storm, cost time: [ 0.01689624786376953 ]
+The result of Check MDP by Storm : 6.042193242303922e-07
+---------Start Simulating in 15 steps---------
+step= 15 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 20 steps----------
+Check the DTMC by Storm, cost time: [ 0.022538423538208008 ]
+The result of Check MDP by Storm : 0.03652281483709642
+---------Start Simulating in 20 steps---------
+step= 20 unsafecount= 6 the simulated unsafe prob: 0.0006
+-------------Verifying the  MDP in 25 steps----------
+Check the DTMC by Storm, cost time: [ 0.03044915199279785 ]
+The result of Check MDP by Storm : 0.11933393942192658
+---------Start Simulating in 25 steps---------
+step= 25 unsafecount= 230 the simulated unsafe prob: 0.023
+-------------Verifying the  MDP in 30 steps----------
+Check the DTMC by Storm, cost time: [ 0.03975319862365723 ]
+The result of Check MDP by Storm : 0.20644978917693177
+---------Start Simulating in 30 steps---------
+step= 30 unsafecount= 581 the simulated unsafe prob: 0.0581
+-------------Verifying the  MDP in 35 steps----------
+Check the DTMC by Storm, cost time: [ 0.05070090293884277 ]
+The result of Check MDP by Storm : 0.2764948013902911
+---------Start Simulating in 35 steps---------
+step= 35 unsafecount= 888 the simulated unsafe prob: 0.0888
+-------------Verifying the  MDP in 40 steps----------
+Check the DTMC by Storm, cost time: [ 0.06467223167419434 ]
+The result of Check MDP by Storm : 0.31109657924364537
+---------Start Simulating in 40 steps---------
+step= 40 unsafecount= 1156 the simulated unsafe prob: 0.1156
+-------------Verifying the  MDP in 45 steps----------
+Check the DTMC by Storm, cost time: [ 0.07770967483520508 ]
+The result of Check MDP by Storm : 0.323590001998992
+---------Start Simulating in 45 steps---------
+step= 45 unsafecount= 1445 the simulated unsafe prob: 0.1445
+-------------Verifying the  MDP in 50 steps----------
+Check the DTMC by Storm, cost time: [ 0.09361553192138672 ]
+The result of Check MDP by Storm : 0.32829986991980203
+---------Start Simulating in 50 steps---------
+step= 50 unsafecount= 1548 the simulated unsafe prob: 0.1548
+-------------Verifying the  MDP in 55 steps----------
+Check the DTMC by Storm, cost time: [ 0.11039090156555176 ]
+The result of Check MDP by Storm : 0.33502302753902063
+---------Start Simulating in 55 steps---------
+step= 55 unsafecount= 1735 the simulated unsafe prob: 0.1735
+-------------Verifying the  MDP in 60 steps----------
+Check the DTMC by Storm, cost time: [ 0.12897801399230957 ]
+The result of Check MDP by Storm : 0.3438305768832071
+---------Start Simulating in 60 steps---------
+step= 60 unsafecount= 1872 the simulated unsafe prob: 0.1872
+------use_orthogonal_init------
+------use_orthogonal_init------
+...load... /home/yangjunfeng/Verify/Verify/AdaptiveCar/policy/AdaptiveCar_actorlevel_2_avgnew.pth net
+Starting for verification of region: [-6.9999, 13.0001, -1.00001, 24.99999]
+start state:
+start state:
+Steps : 0    |    Transition Size : 18000    |    Time Cost: 0
+Steps : 1    |    Transition Size : 54000    |    Time Cost: 5.949913740158081
+Steps : 2    |    Transition Size : 56498    |    Time Cost: 16.755647659301758
+Steps : 3    |    Transition Size : 59076    |    Time Cost: 17.455113649368286
+Steps : 4    |    Transition Size : 61740    |    Time Cost: 18.29522967338562
+Steps : 5    |    Transition Size : 64492    |    Time Cost: 19.1234233379364
+Steps : 6    |    Transition Size : 67332    |    Time Cost: 19.930533409118652
+Steps : 7    |    Transition Size : 70266    |    Time Cost: 20.736345291137695
+Steps : 8    |    Transition Size : 73270    |    Time Cost: 21.636072874069214
+Steps : 9    |    Transition Size : 76984    |    Time Cost: 22.6529860496521
+Steps : 10    |    Transition Size : 80182    |    Time Cost: 23.666194915771484
+Steps : 11    |    Transition Size : 83480    |    Time Cost: 24.674104928970337
+Steps : 12    |    Transition Size : 86848    |    Time Cost: 25.705591917037964
+Steps : 13    |    Transition Size : 90954    |    Time Cost: 26.766659021377563
+Steps : 14    |    Transition Size : 94548    |    Time Cost: 27.958719968795776
+Steps : 15    |    Transition Size : 98236    |    Time Cost: 29.072317123413086
+Steps : 16    |    Transition Size : 102032    |    Time Cost: 30.172911167144775
+Steps : 17    |    Transition Size : 105936    |    Time Cost: 31.31204056739807
+Steps : 18    |    Transition Size : 109658    |    Time Cost: 32.44993472099304
+Steps : 19    |    Transition Size : 112850    |    Time Cost: 33.39786076545715
+Steps : 20    |    Transition Size : 115796    |    Time Cost: 34.31870079040527
+Steps : 21    |    Transition Size : 119202    |    Time Cost: 35.15384483337402
+Steps : 22    |    Transition Size : 122482    |    Time Cost: 36.16573786735535
+Steps : 23    |    Transition Size : 125054    |    Time Cost: 37.047059535980225
+Steps : 24    |    Transition Size : 128156    |    Time Cost: 37.83584761619568
+Steps : 25    |    Transition Size : 131188    |    Time Cost: 38.80524945259094
+Steps : 26    |    Transition Size : 133470    |    Time Cost: 39.655640602111816
+Steps : 27    |    Transition Size : 135684    |    Time Cost: 40.34365653991699
+Steps : 28    |    Transition Size : 138468    |    Time Cost: 40.989312410354614
+Steps : 29    |    Transition Size : 140560    |    Time Cost: 41.77859425544739
+Steps : 30    |    Transition Size : 142592    |    Time Cost: 42.42567276954651
+Steps : 31    |    Transition Size : 144596    |    Time Cost: 43.00832796096802
+Steps : 32    |    Transition Size : 147224    |    Time Cost: 43.60689091682434
+Steps : 33    |    Transition Size : 149218    |    Time Cost: 44.414782762527466
+Steps : 34    |    Transition Size : 151210    |    Time Cost: 44.994786500930786
+Steps : 35    |    Transition Size : 153222    |    Time Cost: 45.57175946235657
+Steps : 36    |    Transition Size : 155888    |    Time Cost: 46.230435609817505
+Steps : 37    |    Transition Size : 157914    |    Time Cost: 47.007718563079834
+Steps : 38    |    Transition Size : 159994    |    Time Cost: 47.60404706001282
+Steps : 39    |    Transition Size : 162114    |    Time Cost: 48.26090431213379
+Steps : 40    |    Transition Size : 164924    |    Time Cost: 48.96100568771362
+Steps : 41    |    Transition Size : 167152    |    Time Cost: 49.747952938079834
+Steps : 42    |    Transition Size : 169436    |    Time Cost: 50.44414663314819
+Steps : 43    |    Transition Size : 171756    |    Time Cost: 51.124205350875854
+Steps : 44    |    Transition Size : 174112    |    Time Cost: 51.86492848396301
+Steps : 45    |    Transition Size : 176514    |    Time Cost: 52.52646040916443
+Steps : 46    |    Transition Size : 178982    |    Time Cost: 53.370227098464966
+Steps : 47    |    Transition Size : 181474    |    Time Cost: 54.115334033966064
+Steps : 48    |    Transition Size : 184008    |    Time Cost: 54.827332735061646
+Steps : 49    |    Transition Size : 186598    |    Time Cost: 55.60884714126587
+Steps : 50    |    Transition Size : 189270    |    Time Cost: 56.37084650993347
+Steps : 51    |    Transition Size : 191972    |    Time Cost: 57.25876212120056
+Steps : 52    |    Transition Size : 194748    |    Time Cost: 58.04061675071716
+Steps : 53    |    Transition Size : 197590    |    Time Cost: 58.846880197525024
+Steps : 54    |    Transition Size : 200510    |    Time Cost: 59.789782762527466
+Steps : 55    |    Transition Size : 203438    |    Time Cost: 60.65643906593323
+Steps : 56    |    Transition Size : 206412    |    Time Cost: 61.56506037712097
+Steps : 57    |    Transition Size : 209456    |    Time Cost: 62.437113761901855
+Steps : 58    |    Transition Size : 212532    |    Time Cost: 63.37290930747986
+Steps : 59    |    Transition Size : 215636    |    Time Cost: 64.3799741268158
+Steps : 60    |    Transition Size : 218830    |    Time Cost: 65.26731133460999
+-------------------------------------------------------------- 
+Model type: 	MDP (sparse)
+States: 	218830
+Transitions: 	1102272
+Choices: 	554042
+Reward Models:  none
+State Labels: 	2 labels
+   * init -> 0 item(s)
+   * unsafe -> 2618 item(s)
+Choice Labels: 	none
+-------------------------------------------------------------- 
+
+-------------Verifying the  MDP in 0 steps----------
+Check the DTMC by Storm, cost time: [ 0.009330987930297852 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 0 steps---------
+step= 0 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 5 steps----------
+Check the DTMC by Storm, cost time: [ 0.011921882629394531 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 5 steps---------
+step= 5 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 10 steps----------
+Check the DTMC by Storm, cost time: [ 0.015436172485351562 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 10 steps---------
+step= 10 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 15 steps----------
+Check the DTMC by Storm, cost time: [ 0.020595550537109375 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 15 steps---------
+step= 15 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 20 steps----------
+Check the DTMC by Storm, cost time: [ 0.02756476402282715 ]
+The result of Check MDP by Storm : 0.00714059487565555
+---------Start Simulating in 20 steps---------
+step= 20 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 25 steps----------
+Check the DTMC by Storm, cost time: [ 0.037283897399902344 ]
+The result of Check MDP by Storm : 0.0682417019281902
+---------Start Simulating in 25 steps---------
+step= 25 unsafecount= 59 the simulated unsafe prob: 0.0059
+-------------Verifying the  MDP in 30 steps----------
+Check the DTMC by Storm, cost time: [ 0.04986691474914551 ]
+The result of Check MDP by Storm : 0.1689177642267201
+---------Start Simulating in 30 steps---------
+step= 30 unsafecount= 320 the simulated unsafe prob: 0.032
+-------------Verifying the  MDP in 35 steps----------
+Check the DTMC by Storm, cost time: [ 0.06407570838928223 ]
+The result of Check MDP by Storm : 0.28420387278162024
+---------Start Simulating in 35 steps---------
+step= 35 unsafecount= 743 the simulated unsafe prob: 0.0743
+-------------Verifying the  MDP in 40 steps----------
+Check the DTMC by Storm, cost time: [ 0.08404374122619629 ]
+The result of Check MDP by Storm : 0.37474991270103325
+---------Start Simulating in 40 steps---------
+step= 40 unsafecount= 1061 the simulated unsafe prob: 0.1061
+-------------Verifying the  MDP in 45 steps----------
+Check the DTMC by Storm, cost time: [ 0.09928059577941895 ]
+The result of Check MDP by Storm : 0.4330878006351709
+---------Start Simulating in 45 steps---------
+step= 45 unsafecount= 1436 the simulated unsafe prob: 0.1436
+-------------Verifying the  MDP in 50 steps----------
+Check the DTMC by Storm, cost time: [ 0.1188814640045166 ]
+The result of Check MDP by Storm : 0.4654348892357499
+---------Start Simulating in 50 steps---------
+step= 50 unsafecount= 1735 the simulated unsafe prob: 0.1735
+-------------Verifying the  MDP in 55 steps----------
+Check the DTMC by Storm, cost time: [ 0.13954901695251465 ]
+The result of Check MDP by Storm : 0.4832589526131851
+---------Start Simulating in 55 steps---------
+step= 55 unsafecount= 1890 the simulated unsafe prob: 0.189
+-------------Verifying the  MDP in 60 steps----------
+Check the DTMC by Storm, cost time: [ 0.16233348846435547 ]
+The result of Check MDP by Storm : 0.48546458086264493
+---------Start Simulating in 60 steps---------
+step= 60 unsafecount= 2147 the simulated unsafe prob: 0.2147
+------use_orthogonal_init------
+------use_orthogonal_init------
+...load... /home/yangjunfeng/Verify/Verify/AdaptiveCar/policy/AdaptiveCar_actorlevel_2_avgnew.pth net
+Starting for verification of region: [-7.9999, 17.0001, -2.00001, 31.99999]
+start state:
+start state:
+Steps : 0    |    Transition Size : 22500    |    Time Cost: 0
+Steps : 1    |    Transition Size : 67500    |    Time Cost: 7.472659111022949
+Steps : 2    |    Transition Size : 70594    |    Time Cost: 20.95222043991089
+Steps : 3    |    Transition Size : 74538    |    Time Cost: 21.964455366134644
+Steps : 4    |    Transition Size : 78582    |    Time Cost: 23.062554359436035
+Steps : 5    |    Transition Size : 81978    |    Time Cost: 24.333537578582764
+Steps : 6    |    Transition Size : 86228    |    Time Cost: 25.361881494522095
+Steps : 7    |    Transition Size : 90586    |    Time Cost: 26.71399688720703
+Steps : 8    |    Transition Size : 94286    |    Time Cost: 27.989187479019165
+Steps : 9    |    Transition Size : 98084    |    Time Cost: 29.04379177093506
+Steps : 10    |    Transition Size : 101994    |    Time Cost: 30.28356385231018
+Steps : 11    |    Transition Size : 106010    |    Time Cost: 31.518497705459595
+Steps : 12    |    Transition Size : 110112    |    Time Cost: 32.66980481147766
+Steps : 13    |    Transition Size : 114322    |    Time Cost: 33.87401533126831
+Steps : 14    |    Transition Size : 118634    |    Time Cost: 35.16991949081421
+Steps : 15    |    Transition Size : 123828    |    Time Cost: 36.63091778755188
+Steps : 16    |    Transition Size : 128360    |    Time Cost: 38.09800744056702
+Steps : 17    |    Transition Size : 133006    |    Time Cost: 39.51996469497681
+Steps : 18    |    Transition Size : 137746    |    Time Cost: 41.024006366729736
+Steps : 19    |    Transition Size : 143408    |    Time Cost: 42.461756229400635
+Steps : 20    |    Transition Size : 148318    |    Time Cost: 44.17430830001831
+Steps : 21    |    Transition Size : 152496    |    Time Cost: 45.412362813949585
+Steps : 22    |    Transition Size : 156322    |    Time Cost: 46.604167461395264
+Steps : 23    |    Transition Size : 159912    |    Time Cost: 47.67484140396118
+Steps : 24    |    Transition Size : 163276    |    Time Cost: 48.71564865112305
+Steps : 25    |    Transition Size : 166494    |    Time Cost: 49.720685720443726
+Steps : 26    |    Transition Size : 169584    |    Time Cost: 50.62713885307312
+Steps : 27    |    Transition Size : 173358    |    Time Cost: 51.535452365875244
+Steps : 28    |    Transition Size : 177034    |    Time Cost: 52.68393516540527
+Steps : 29    |    Transition Size : 179840    |    Time Cost: 53.65946006774902
+Steps : 30    |    Transition Size : 183368    |    Time Cost: 54.60727286338806
+Steps : 31    |    Transition Size : 186804    |    Time Cost: 55.627779722213745
+Steps : 32    |    Transition Size : 189354    |    Time Cost: 56.60550117492676
+Steps : 33    |    Transition Size : 191816    |    Time Cost: 57.386658906936646
+Steps : 34    |    Transition Size : 195018    |    Time Cost: 58.10160183906555
+Steps : 35    |    Transition Size : 197378    |    Time Cost: 59.003772258758545
+Steps : 36    |    Transition Size : 199716    |    Time Cost: 59.759572982788086
+Steps : 37    |    Transition Size : 202046    |    Time Cost: 60.4345018863678
+Steps : 38    |    Transition Size : 205222    |    Time Cost: 61.14073300361633
+Steps : 39    |    Transition Size : 207596    |    Time Cost: 62.11959910392761
+Steps : 40    |    Transition Size : 209970    |    Time Cost: 62.81206798553467
+Steps : 41    |    Transition Size : 212320    |    Time Cost: 63.500160455703735
+Steps : 42    |    Transition Size : 215544    |    Time Cost: 64.28084874153137
+Steps : 43    |    Transition Size : 217932    |    Time Cost: 65.2279748916626
+Steps : 44    |    Transition Size : 220350    |    Time Cost: 65.93100166320801
+Steps : 45    |    Transition Size : 222802    |    Time Cost: 66.69663166999817
+Steps : 46    |    Transition Size : 226164    |    Time Cost: 67.5199806690216
+Steps : 47    |    Transition Size : 228724    |    Time Cost: 68.45856261253357
+Steps : 48    |    Transition Size : 231346    |    Time Cost: 69.25766158103943
+Steps : 49    |    Transition Size : 234008    |    Time Cost: 70.04055047035217
+Steps : 50    |    Transition Size : 236722    |    Time Cost: 70.89943027496338
+Steps : 51    |    Transition Size : 239446    |    Time Cost: 71.69939732551575
+Steps : 52    |    Transition Size : 242228    |    Time Cost: 72.61564993858337
+Steps : 53    |    Transition Size : 245074    |    Time Cost: 73.46315455436707
+Steps : 54    |    Transition Size : 247960    |    Time Cost: 74.27407908439636
+Steps : 55    |    Transition Size : 250862    |    Time Cost: 75.16740274429321
+Steps : 56    |    Transition Size : 253832    |    Time Cost: 76.01897406578064
+Steps : 57    |    Transition Size : 256874    |    Time Cost: 77.02432465553284
+Steps : 58    |    Transition Size : 259970    |    Time Cost: 77.90142464637756
+Steps : 59    |    Transition Size : 263098    |    Time Cost: 78.79309582710266
+Steps : 60    |    Transition Size : 266328    |    Time Cost: 79.85127568244934
+-------------------------------------------------------------- 
+Model type: 	MDP (sparse)
+States: 	266328
+Transitions: 	1335104
+Choices: 	670848
+Reward Models:  none
+State Labels: 	2 labels
+   * init -> 0 item(s)
+   * unsafe -> 3362 item(s)
+Choice Labels: 	none
+-------------------------------------------------------------- 
+
+-------------Verifying the  MDP in 0 steps----------
+Check the DTMC by Storm, cost time: [ 0.011904478073120117 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 0 steps---------
+step= 0 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 5 steps----------
+Check the DTMC by Storm, cost time: [ 0.015257596969604492 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 5 steps---------
+step= 5 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 10 steps----------
+Check the DTMC by Storm, cost time: [ 0.019048452377319336 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 10 steps---------
+step= 10 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 15 steps----------
+Check the DTMC by Storm, cost time: [ 0.02607107162475586 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 15 steps---------
+step= 15 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 20 steps----------
+Check the DTMC by Storm, cost time: [ 0.03537631034851074 ]
+The result of Check MDP by Storm : 4.519423891980579e-12
+---------Start Simulating in 20 steps---------
+step= 20 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 25 steps----------
+Check the DTMC by Storm, cost time: [ 0.04516100883483887 ]
+The result of Check MDP by Storm : 0.027132692160172375
+---------Start Simulating in 25 steps---------
+step= 25 unsafecount= 1 the simulated unsafe prob: 0.0001
+-------------Verifying the  MDP in 30 steps----------
+Check the DTMC by Storm, cost time: [ 0.05964541435241699 ]
+The result of Check MDP by Storm : 0.10628022649764911
+---------Start Simulating in 30 steps---------
+step= 30 unsafecount= 117 the simulated unsafe prob: 0.0117
+-------------Verifying the  MDP in 35 steps----------
+Check the DTMC by Storm, cost time: [ 0.07822895050048828 ]
+The result of Check MDP by Storm : 0.21629286959855484
+---------Start Simulating in 35 steps---------
+step= 35 unsafecount= 517 the simulated unsafe prob: 0.0517
+-------------Verifying the  MDP in 40 steps----------
+Check the DTMC by Storm, cost time: [ 0.09908056259155273 ]
+The result of Check MDP by Storm : 0.3441710603642358
+---------Start Simulating in 40 steps---------
+step= 40 unsafecount= 874 the simulated unsafe prob: 0.0874
+-------------Verifying the  MDP in 45 steps----------
+Check the DTMC by Storm, cost time: [ 0.1226496696472168 ]
+The result of Check MDP by Storm : 0.4506584357779797
+---------Start Simulating in 45 steps---------
+step= 45 unsafecount= 1243 the simulated unsafe prob: 0.1243
+-------------Verifying the  MDP in 50 steps----------
+Check the DTMC by Storm, cost time: [ 0.14849352836608887 ]
+The result of Check MDP by Storm : 0.525864425239817
+---------Start Simulating in 50 steps---------
+step= 50 unsafecount= 1668 the simulated unsafe prob: 0.1668
+-------------Verifying the  MDP in 55 steps----------
+Check the DTMC by Storm, cost time: [ 0.1778852939605713 ]
+The result of Check MDP by Storm : 0.5788678992813491
+---------Start Simulating in 55 steps---------
+step= 55 unsafecount= 1981 the simulated unsafe prob: 0.1981
+-------------Verifying the  MDP in 60 steps----------
+Check the DTMC by Storm, cost time: [ 0.2013993263244629 ]
+The result of Check MDP by Storm : 0.615203094003393
+---------Start Simulating in 60 steps---------
+step= 60 unsafecount= 2191 the simulated unsafe prob: 0.2191
+所有数据和平均误差已存储到文件中,用时 3196.3380386829376
+
+进程已结束,退出代码0

@@ -1,0 +1,726 @@
+/home/yangjunfeng/anaconda3/envs/Verify/bin/python3.7 /home/yangjunfeng/Verify/Verify/MDPChecking/AdaptiveCar.py 
+/home/yangjunfeng/Verify/Verify/AdaptiveCar/rtree/level_4
+number of states in rtree 20200000
+------use_orthogonal_init------
+------use_orthogonal_init------
+...load... /home/yangjunfeng/Verify/Verify/AdaptiveCar/policy/AdaptiveCar_actorlevel_4.pth net
+Starting for verification of region: [-3.9999, 4.0001, 1.99999, 9.99999]
+start state:
+start state:
+Steps : 0    |    Transition Size : 36000    |    Time Cost: 0
+Steps : 1    |    Transition Size : 106561    |    Time Cost: 12.324236392974854
+Steps : 2    |    Transition Size : 111086    |    Time Cost: 34.22669219970703
+Steps : 3    |    Transition Size : 115784    |    Time Cost: 35.60712432861328
+Steps : 4    |    Transition Size : 121404    |    Time Cost: 37.162546157836914
+Steps : 5    |    Transition Size : 126772    |    Time Cost: 38.84214806556702
+Steps : 6    |    Transition Size : 132924    |    Time Cost: 40.79659819602966
+Steps : 7    |    Transition Size : 138913    |    Time Cost: 42.7937376499176
+Steps : 8    |    Transition Size : 145689    |    Time Cost: 44.807847023010254
+Steps : 9    |    Transition Size : 152333    |    Time Cost: 47.011688470840454
+Steps : 10    |    Transition Size : 159883    |    Time Cost: 49.00376081466675
+Steps : 11    |    Transition Size : 166148    |    Time Cost: 51.070974349975586
+Steps : 12    |    Transition Size : 172417    |    Time Cost: 52.835891246795654
+Steps : 13    |    Transition Size : 177981    |    Time Cost: 54.63284254074097
+Steps : 14    |    Transition Size : 183991    |    Time Cost: 56.3622522354126
+Steps : 15    |    Transition Size : 189364    |    Time Cost: 58.08801770210266
+Steps : 16    |    Transition Size : 195114    |    Time Cost: 59.78345251083374
+Steps : 17    |    Transition Size : 200362    |    Time Cost: 61.74092149734497
+Steps : 18    |    Transition Size : 205426    |    Time Cost: 63.253153562545776
+Steps : 19    |    Transition Size : 210619    |    Time Cost: 64.77501559257507
+Steps : 20    |    Transition Size : 215848    |    Time Cost: 66.33972907066345
+Steps : 21    |    Transition Size : 221097    |    Time Cost: 67.96204543113708
+Steps : 22    |    Transition Size : 226413    |    Time Cost: 69.49346423149109
+Steps : 23    |    Transition Size : 231894    |    Time Cost: 71.21543192863464
+Steps : 24    |    Transition Size : 237550    |    Time Cost: 72.83612608909607
+Steps : 25    |    Transition Size : 243377    |    Time Cost: 74.67415165901184
+Steps : 26    |    Transition Size : 249371    |    Time Cost: 76.41894435882568
+Steps : 27    |    Transition Size : 255502    |    Time Cost: 78.30198669433594
+Steps : 28    |    Transition Size : 261890    |    Time Cost: 80.31987166404724
+Steps : 29    |    Transition Size : 268425    |    Time Cost: 82.3076479434967
+Steps : 30    |    Transition Size : 275199    |    Time Cost: 84.39279460906982
+Steps : 31    |    Transition Size : 282137    |    Time Cost: 86.53855562210083
+Steps : 32    |    Transition Size : 289332    |    Time Cost: 88.65146374702454
+Steps : 33    |    Transition Size : 296717    |    Time Cost: 90.97433423995972
+Steps : 34    |    Transition Size : 304400    |    Time Cost: 93.20618605613708
+Steps : 35    |    Transition Size : 312255    |    Time Cost: 95.681467294693
+Steps : 36    |    Transition Size : 320403    |    Time Cost: 98.14644718170166
+Steps : 37    |    Transition Size : 328668    |    Time Cost: 100.75542545318604
+Steps : 38    |    Transition Size : 337227    |    Time Cost: 103.363290309906
+Steps : 39    |    Transition Size : 345946    |    Time Cost: 106.09650325775146
+Steps : 40    |    Transition Size : 354992    |    Time Cost: 108.8429925441742
+Steps : 41    |    Transition Size : 364193    |    Time Cost: 111.71788573265076
+Steps : 42    |    Transition Size : 373667    |    Time Cost: 114.55383014678955
+Steps : 43    |    Transition Size : 383352    |    Time Cost: 117.62364602088928
+Steps : 44    |    Transition Size : 393361    |    Time Cost: 120.60027027130127
+Steps : 45    |    Transition Size : 403614    |    Time Cost: 123.83588337898254
+Steps : 46    |    Transition Size : 414188    |    Time Cost: 127.08403182029724
+Steps : 47    |    Transition Size : 425014    |    Time Cost: 130.52227067947388
+Steps : 48    |    Transition Size : 436176    |    Time Cost: 133.94305777549744
+Steps : 49    |    Transition Size : 447546    |    Time Cost: 137.51205229759216
+Steps : 50    |    Transition Size : 459283    |    Time Cost: 141.28196716308594
+Steps : 51    |    Transition Size : 471198    |    Time Cost: 145.00399255752563
+Steps : 52    |    Transition Size : 483498    |    Time Cost: 148.7008717060089
+Steps : 53    |    Transition Size : 496005    |    Time Cost: 152.90026593208313
+Steps : 54    |    Transition Size : 508855    |    Time Cost: 156.86864757537842
+Steps : 55    |    Transition Size : 521935    |    Time Cost: 161.01398754119873
+Steps : 56    |    Transition Size : 535364    |    Time Cost: 165.14379954338074
+Steps : 57    |    Transition Size : 549055    |    Time Cost: 169.4807906150818
+Steps : 58    |    Transition Size : 563081    |    Time Cost: 173.9084131717682
+Steps : 59    |    Transition Size : 577223    |    Time Cost: 178.39524745941162
+Steps : 60    |    Transition Size : 591614    |    Time Cost: 182.86941361427307
+-------------------------------------------------------------- 
+Model type: 	MDP (sparse)
+States: 	591614
+Transitions: 	3036083
+Choices: 	1527088
+Reward Models:  none
+State Labels: 	2 labels
+   * init -> 0 item(s)
+   * unsafe -> 3702 item(s)
+Choice Labels: 	none
+-------------------------------------------------------------- 
+
+-------------Verifying the  MDP in 0 steps----------
+Check the DTMC by Storm, cost time: [ 0.034619808197021484 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 0 steps---------
+step= 0 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 5 steps----------
+Check the DTMC by Storm, cost time: [ 0.03844738006591797 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 5 steps---------
+step= 5 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 10 steps----------
+Check the DTMC by Storm, cost time: [ 0.04465818405151367 ]
+The result of Check MDP by Storm : 0.00021403536321960097
+---------Start Simulating in 10 steps---------
+step= 10 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 15 steps----------
+Check the DTMC by Storm, cost time: [ 0.0538179874420166 ]
+The result of Check MDP by Storm : 0.02570648067769185
+---------Start Simulating in 15 steps---------
+step= 15 unsafecount= 166 the simulated unsafe prob: 0.0166
+-------------Verifying the  MDP in 20 steps----------
+Check the DTMC by Storm, cost time: [ 0.06403803825378418 ]
+The result of Check MDP by Storm : 0.06294366449852712
+---------Start Simulating in 20 steps---------
+step= 20 unsafecount= 491 the simulated unsafe prob: 0.0491
+-------------Verifying the  MDP in 25 steps----------
+Check the DTMC by Storm, cost time: [ 0.08306455612182617 ]
+The result of Check MDP by Storm : 0.09877708962822677
+---------Start Simulating in 25 steps---------
+step= 25 unsafecount= 794 the simulated unsafe prob: 0.0794
+-------------Verifying the  MDP in 30 steps----------
+Check the DTMC by Storm, cost time: [ 0.10417366027832031 ]
+The result of Check MDP by Storm : 0.13000555347469553
+---------Start Simulating in 30 steps---------
+step= 30 unsafecount= 1068 the simulated unsafe prob: 0.1068
+-------------Verifying the  MDP in 35 steps----------
+Check the DTMC by Storm, cost time: [ 0.13109064102172852 ]
+The result of Check MDP by Storm : 0.1551718231582418
+---------Start Simulating in 35 steps---------
+step= 35 unsafecount= 1281 the simulated unsafe prob: 0.1281
+-------------Verifying the  MDP in 40 steps----------
+Check the DTMC by Storm, cost time: [ 0.16875290870666504 ]
+The result of Check MDP by Storm : 0.17438424566380387
+---------Start Simulating in 40 steps---------
+step= 40 unsafecount= 1488 the simulated unsafe prob: 0.1488
+-------------Verifying the  MDP in 45 steps----------
+Check the DTMC by Storm, cost time: [ 0.1944122314453125 ]
+The result of Check MDP by Storm : 0.1892764119330012
+---------Start Simulating in 45 steps---------
+step= 45 unsafecount= 1513 the simulated unsafe prob: 0.1513
+-------------Verifying the  MDP in 50 steps----------
+Check the DTMC by Storm, cost time: [ 0.2482280731201172 ]
+The result of Check MDP by Storm : 0.20173813896535667
+---------Start Simulating in 50 steps---------
+step= 50 unsafecount= 1574 the simulated unsafe prob: 0.1574
+-------------Verifying the  MDP in 55 steps----------
+Check the DTMC by Storm, cost time: [ 0.29102611541748047 ]
+The result of Check MDP by Storm : 0.21291127028413442
+---------Start Simulating in 55 steps---------
+step= 55 unsafecount= 1717 the simulated unsafe prob: 0.1717
+-------------Verifying the  MDP in 60 steps----------
+Check the DTMC by Storm, cost time: [ 0.3458724021911621 ]
+The result of Check MDP by Storm : 0.22345297241830156
+---------Start Simulating in 60 steps---------
+step= 60 unsafecount= 1771 the simulated unsafe prob: 0.1771
+------use_orthogonal_init------
+------use_orthogonal_init------
+...load... /home/yangjunfeng/Verify/Verify/AdaptiveCar/policy/AdaptiveCar_actorlevel_4.pth net
+Starting for verification of region: [-4.9999, 6.5001, 0.99999, 13.99999]
+start state:
+start state:
+Steps : 0    |    Transition Size : 45000    |    Time Cost: 0
+Steps : 1    |    Transition Size : 132277    |    Time Cost: 15.295098543167114
+Steps : 2    |    Transition Size : 138103    |    Time Cost: 42.636377573013306
+Steps : 3    |    Transition Size : 144952    |    Time Cost: 44.581658363342285
+Steps : 4    |    Transition Size : 151364    |    Time Cost: 46.75928020477295
+Steps : 5    |    Transition Size : 158816    |    Time Cost: 48.71717166900635
+Steps : 6    |    Transition Size : 165843    |    Time Cost: 51.085707664489746
+Steps : 7    |    Transition Size : 173938    |    Time Cost: 53.28373122215271
+Steps : 8    |    Transition Size : 181584    |    Time Cost: 55.75835561752319
+Steps : 9    |    Transition Size : 190274    |    Time Cost: 58.311269998550415
+Steps : 10    |    Transition Size : 198550    |    Time Cost: 60.96589970588684
+Steps : 11    |    Transition Size : 206902    |    Time Cost: 63.63883996009827
+Steps : 12    |    Transition Size : 216481    |    Time Cost: 66.33952522277832
+Steps : 13    |    Transition Size : 225360    |    Time Cost: 69.14331412315369
+Steps : 14    |    Transition Size : 233572    |    Time Cost: 71.59405374526978
+Steps : 15    |    Transition Size : 240602    |    Time Cost: 73.83503770828247
+Steps : 16    |    Transition Size : 247865    |    Time Cost: 75.96283459663391
+Steps : 17    |    Transition Size : 254290    |    Time Cost: 78.06329107284546
+Steps : 18    |    Transition Size : 261169    |    Time Cost: 79.90428853034973
+Steps : 19    |    Transition Size : 267232    |    Time Cost: 81.94413614273071
+Steps : 20    |    Transition Size : 273724    |    Time Cost: 83.8152334690094
+Steps : 21    |    Transition Size : 279553    |    Time Cost: 85.70146226882935
+Steps : 22    |    Transition Size : 285992    |    Time Cost: 87.53444862365723
+Steps : 23    |    Transition Size : 291659    |    Time Cost: 89.41445136070251
+Steps : 24    |    Transition Size : 297823    |    Time Cost: 91.15327215194702
+Steps : 25    |    Transition Size : 303508    |    Time Cost: 93.03731989860535
+Steps : 26    |    Transition Size : 309018    |    Time Cost: 94.73890471458435
+Steps : 27    |    Transition Size : 314956    |    Time Cost: 96.49554991722107
+Steps : 28    |    Transition Size : 321010    |    Time Cost: 98.36650085449219
+Steps : 29    |    Transition Size : 327227    |    Time Cost: 100.27602767944336
+Steps : 30    |    Transition Size : 333636    |    Time Cost: 102.13779377937317
+Steps : 31    |    Transition Size : 340237    |    Time Cost: 104.25392317771912
+Steps : 32    |    Transition Size : 346986    |    Time Cost: 106.29033255577087
+Steps : 33    |    Transition Size : 353912    |    Time Cost: 108.51234745979309
+Steps : 34    |    Transition Size : 361035    |    Time Cost: 110.60912537574768
+Steps : 35    |    Transition Size : 368352    |    Time Cost: 112.87825536727905
+Steps : 36    |    Transition Size : 375849    |    Time Cost: 115.1696662902832
+Steps : 37    |    Transition Size : 383602    |    Time Cost: 117.54658150672913
+Steps : 38    |    Transition Size : 391568    |    Time Cost: 119.96178364753723
+Steps : 39    |    Transition Size : 399757    |    Time Cost: 122.4912428855896
+Steps : 40    |    Transition Size : 408182    |    Time Cost: 124.97626662254333
+Steps : 41    |    Transition Size : 416849    |    Time Cost: 127.72790384292603
+Steps : 42    |    Transition Size : 425767    |    Time Cost: 130.34484314918518
+Steps : 43    |    Transition Size : 434915    |    Time Cost: 133.32712602615356
+Steps : 44    |    Transition Size : 444267    |    Time Cost: 136.15596532821655
+Steps : 45    |    Transition Size : 453839    |    Time Cost: 139.13926005363464
+Steps : 46    |    Transition Size : 463642    |    Time Cost: 142.14018082618713
+Steps : 47    |    Transition Size : 473642    |    Time Cost: 145.22048211097717
+Steps : 48    |    Transition Size : 483885    |    Time Cost: 148.3602912425995
+Steps : 49    |    Transition Size : 494327    |    Time Cost: 151.62995100021362
+Steps : 50    |    Transition Size : 505024    |    Time Cost: 154.84003806114197
+Steps : 51    |    Transition Size : 515955    |    Time Cost: 158.4004306793213
+Steps : 52    |    Transition Size : 527187    |    Time Cost: 161.7835500240326
+Steps : 53    |    Transition Size : 538694    |    Time Cost: 165.53084230422974
+Steps : 54    |    Transition Size : 550497    |    Time Cost: 169.17057752609253
+Steps : 55    |    Transition Size : 562565    |    Time Cost: 172.96346974372864
+Steps : 56    |    Transition Size : 574929    |    Time Cost: 176.7835512161255
+Steps : 57    |    Transition Size : 587546    |    Time Cost: 180.81482338905334
+Steps : 58    |    Transition Size : 600459    |    Time Cost: 184.85014986991882
+Steps : 59    |    Transition Size : 613594    |    Time Cost: 188.9994502067566
+Steps : 60    |    Transition Size : 627070    |    Time Cost: 193.11400604248047
+-------------------------------------------------------------- 
+Model type: 	MDP (sparse)
+States: 	627070
+Transitions: 	3193150
+Choices: 	1606030
+Reward Models:  none
+State Labels: 	2 labels
+   * init -> 0 item(s)
+   * unsafe -> 5434 item(s)
+Choice Labels: 	none
+-------------------------------------------------------------- 
+
+-------------Verifying the  MDP in 0 steps----------
+Check the DTMC by Storm, cost time: [ 0.0366063117980957 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 0 steps---------
+step= 0 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 5 steps----------
+Check the DTMC by Storm, cost time: [ 0.041793107986450195 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 5 steps---------
+step= 5 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 10 steps----------
+Check the DTMC by Storm, cost time: [ 0.05300593376159668 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 10 steps---------
+step= 10 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 15 steps----------
+Check the DTMC by Storm, cost time: [ 0.06507062911987305 ]
+The result of Check MDP by Storm : 0.005657135123364387
+---------Start Simulating in 15 steps---------
+step= 15 unsafecount= 7 the simulated unsafe prob: 0.0007
+-------------Verifying the  MDP in 20 steps----------
+Check the DTMC by Storm, cost time: [ 0.08395767211914062 ]
+The result of Check MDP by Storm : 0.04171880801034618
+---------Start Simulating in 20 steps---------
+step= 20 unsafecount= 245 the simulated unsafe prob: 0.0245
+-------------Verifying the  MDP in 25 steps----------
+Check the DTMC by Storm, cost time: [ 0.10894203186035156 ]
+The result of Check MDP by Storm : 0.08712328369541474
+---------Start Simulating in 25 steps---------
+step= 25 unsafecount= 630 the simulated unsafe prob: 0.063
+-------------Verifying the  MDP in 30 steps----------
+Check the DTMC by Storm, cost time: [ 0.13961553573608398 ]
+The result of Check MDP by Storm : 0.13122553642275042
+---------Start Simulating in 30 steps---------
+step= 30 unsafecount= 929 the simulated unsafe prob: 0.0929
+-------------Verifying the  MDP in 35 steps----------
+Check the DTMC by Storm, cost time: [ 0.16611051559448242 ]
+The result of Check MDP by Storm : 0.16903127372704277
+---------Start Simulating in 35 steps---------
+step= 35 unsafecount= 1392 the simulated unsafe prob: 0.1392
+-------------Verifying the  MDP in 40 steps----------
+Check the DTMC by Storm, cost time: [ 0.2052621841430664 ]
+The result of Check MDP by Storm : 0.1962504141559571
+---------Start Simulating in 40 steps---------
+step= 40 unsafecount= 1605 the simulated unsafe prob: 0.1605
+-------------Verifying the  MDP in 45 steps----------
+Check the DTMC by Storm, cost time: [ 0.2614610195159912 ]
+The result of Check MDP by Storm : 0.2153406831834563
+---------Start Simulating in 45 steps---------
+step= 45 unsafecount= 1865 the simulated unsafe prob: 0.1865
+-------------Verifying the  MDP in 50 steps----------
+Check the DTMC by Storm, cost time: [ 0.3071873188018799 ]
+The result of Check MDP by Storm : 0.2294013441460219
+---------Start Simulating in 50 steps---------
+step= 50 unsafecount= 1868 the simulated unsafe prob: 0.1868
+-------------Verifying the  MDP in 55 steps----------
+Check the DTMC by Storm, cost time: [ 0.3789362907409668 ]
+The result of Check MDP by Storm : 0.24036915682539384
+---------Start Simulating in 55 steps---------
+step= 55 unsafecount= 1997 the simulated unsafe prob: 0.1997
+-------------Verifying the  MDP in 60 steps----------
+Check the DTMC by Storm, cost time: [ 0.4269428253173828 ]
+The result of Check MDP by Storm : 0.2496190877184065
+---------Start Simulating in 60 steps---------
+step= 60 unsafecount= 2073 the simulated unsafe prob: 0.2073
+------use_orthogonal_init------
+------use_orthogonal_init------
+...load... /home/yangjunfeng/Verify/Verify/AdaptiveCar/policy/AdaptiveCar_actorlevel_4.pth net
+Starting for verification of region: [-5.9999, 9.5001, -1e-05, 18.99999]
+start state:
+start state:
+Steps : 0    |    Transition Size : 57000    |    Time Cost: 0
+Steps : 1    |    Transition Size : 167806    |    Time Cost: 19.073426961898804
+Steps : 2    |    Transition Size : 175394    |    Time Cost: 52.94942808151245
+Steps : 3    |    Transition Size : 183253    |    Time Cost: 55.290849924087524
+Steps : 4    |    Transition Size : 192353    |    Time Cost: 57.77803897857666
+Steps : 5    |    Transition Size : 200631    |    Time Cost: 60.4035108089447
+Steps : 6    |    Transition Size : 209304    |    Time Cost: 63.14003586769104
+Steps : 7    |    Transition Size : 218203    |    Time Cost: 65.72940015792847
+Steps : 8    |    Transition Size : 227051    |    Time Cost: 68.48673009872437
+Steps : 9    |    Transition Size : 236805    |    Time Cost: 71.27959036827087
+Steps : 10    |    Transition Size : 246887    |    Time Cost: 74.30364418029785
+Steps : 11    |    Transition Size : 257225    |    Time Cost: 77.39354825019836
+Steps : 12    |    Transition Size : 268970    |    Time Cost: 80.68666481971741
+Steps : 13    |    Transition Size : 280147    |    Time Cost: 84.15761685371399
+Steps : 14    |    Transition Size : 292656    |    Time Cost: 87.7417631149292
+Steps : 15    |    Transition Size : 304554    |    Time Cost: 91.5417869091034
+Steps : 16    |    Transition Size : 316008    |    Time Cost: 94.8460214138031
+Steps : 17    |    Transition Size : 325304    |    Time Cost: 97.91715812683105
+Steps : 18    |    Transition Size : 334972    |    Time Cost: 100.62537670135498
+Steps : 19    |    Transition Size : 343173    |    Time Cost: 103.45195651054382
+Steps : 20    |    Transition Size : 350711    |    Time Cost: 105.89717245101929
+Steps : 21    |    Transition Size : 357824    |    Time Cost: 108.08500719070435
+Steps : 22    |    Transition Size : 365024    |    Time Cost: 110.20967483520508
+Steps : 23    |    Transition Size : 371775    |    Time Cost: 112.26531386375427
+Steps : 24    |    Transition Size : 379157    |    Time Cost: 114.43138790130615
+Steps : 25    |    Transition Size : 385737    |    Time Cost: 116.6242003440857
+Steps : 26    |    Transition Size : 392796    |    Time Cost: 118.58753299713135
+Steps : 27    |    Transition Size : 399053    |    Time Cost: 120.70692539215088
+Steps : 28    |    Transition Size : 406102    |    Time Cost: 122.54856038093567
+Steps : 29    |    Transition Size : 412325    |    Time Cost: 124.69722080230713
+Steps : 30    |    Transition Size : 419196    |    Time Cost: 126.66332173347473
+Steps : 31    |    Transition Size : 425510    |    Time Cost: 128.71229577064514
+Steps : 32    |    Transition Size : 432852    |    Time Cost: 130.83533215522766
+Steps : 33    |    Transition Size : 439424    |    Time Cost: 133.09153246879578
+Steps : 34    |    Transition Size : 446763    |    Time Cost: 135.20026564598083
+Steps : 35    |    Transition Size : 453671    |    Time Cost: 137.52987384796143
+Steps : 36    |    Transition Size : 460324    |    Time Cost: 139.6219551563263
+Steps : 37    |    Transition Size : 467530    |    Time Cost: 141.76145958900452
+Steps : 38    |    Transition Size : 474895    |    Time Cost: 144.03682374954224
+Steps : 39    |    Transition Size : 482393    |    Time Cost: 146.38967108726501
+Steps : 40    |    Transition Size : 490046    |    Time Cost: 148.63739132881165
+Steps : 41    |    Transition Size : 497861    |    Time Cost: 151.17430758476257
+Steps : 42    |    Transition Size : 505856    |    Time Cost: 153.50898504257202
+Steps : 43    |    Transition Size : 514035    |    Time Cost: 156.1461944580078
+Steps : 44    |    Transition Size : 522409    |    Time Cost: 158.64590668678284
+Steps : 45    |    Transition Size : 531051    |    Time Cost: 161.3811113834381
+Steps : 46    |    Transition Size : 539892    |    Time Cost: 164.1243612766266
+Steps : 47    |    Transition Size : 548962    |    Time Cost: 166.93675446510315
+Steps : 48    |    Transition Size : 558261    |    Time Cost: 169.7917034626007
+Steps : 49    |    Transition Size : 567764    |    Time Cost: 172.77672600746155
+Steps : 50    |    Transition Size : 577527    |    Time Cost: 175.73933172225952
+Steps : 51    |    Transition Size : 587443    |    Time Cost: 178.95753931999207
+Steps : 52    |    Transition Size : 597638    |    Time Cost: 181.97035932540894
+Steps : 53    |    Transition Size : 608022    |    Time Cost: 185.33981895446777
+Steps : 54    |    Transition Size : 618615    |    Time Cost: 188.5251989364624
+Steps : 55    |    Transition Size : 629387    |    Time Cost: 191.90757060050964
+Steps : 56    |    Transition Size : 640387    |    Time Cost: 195.34771752357483
+Steps : 57    |    Transition Size : 651588    |    Time Cost: 198.84225344657898
+Steps : 58    |    Transition Size : 663046    |    Time Cost: 202.38017630577087
+Steps : 59    |    Transition Size : 674744    |    Time Cost: 206.05584335327148
+Steps : 60    |    Transition Size : 686771    |    Time Cost: 209.67425847053528
+-------------------------------------------------------------- 
+Model type: 	MDP (sparse)
+States: 	686771
+Transitions: 	3482610
+Choices: 	1751077
+Reward Models:  none
+State Labels: 	2 labels
+   * init -> 0 item(s)
+   * unsafe -> 7517 item(s)
+Choice Labels: 	none
+-------------------------------------------------------------- 
+
+-------------Verifying the  MDP in 0 steps----------
+Check the DTMC by Storm, cost time: [ 0.047939300537109375 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 0 steps---------
+step= 0 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 5 steps----------
+Check the DTMC by Storm, cost time: [ 0.05684256553649902 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 5 steps---------
+step= 5 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 10 steps----------
+Check the DTMC by Storm, cost time: [ 0.05971860885620117 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 10 steps---------
+step= 10 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 15 steps----------
+Check the DTMC by Storm, cost time: [ 0.07567620277404785 ]
+The result of Check MDP by Storm : 4.4875854759809936e-07
+---------Start Simulating in 15 steps---------
+step= 15 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 20 steps----------
+Check the DTMC by Storm, cost time: [ 0.0995938777923584 ]
+The result of Check MDP by Storm : 0.015906915230378876
+---------Start Simulating in 20 steps---------
+step= 20 unsafecount= 51 the simulated unsafe prob: 0.0051
+-------------Verifying the  MDP in 25 steps----------
+Check the DTMC by Storm, cost time: [ 0.13036298751831055 ]
+The result of Check MDP by Storm : 0.06256731547878477
+---------Start Simulating in 25 steps---------
+step= 25 unsafecount= 328 the simulated unsafe prob: 0.0328
+-------------Verifying the  MDP in 30 steps----------
+Check the DTMC by Storm, cost time: [ 0.16884088516235352 ]
+The result of Check MDP by Storm : 0.11665724624364134
+---------Start Simulating in 30 steps---------
+step= 30 unsafecount= 782 the simulated unsafe prob: 0.0782
+-------------Verifying the  MDP in 35 steps----------
+Check the DTMC by Storm, cost time: [ 0.2143552303314209 ]
+The result of Check MDP by Storm : 0.1695372581646101
+---------Start Simulating in 35 steps---------
+step= 35 unsafecount= 1168 the simulated unsafe prob: 0.1168
+-------------Verifying the  MDP in 40 steps----------
+Check the DTMC by Storm, cost time: [ 0.26934003829956055 ]
+The result of Check MDP by Storm : 0.21432785234859686
+---------Start Simulating in 40 steps---------
+step= 40 unsafecount= 1610 the simulated unsafe prob: 0.161
+-------------Verifying the  MDP in 45 steps----------
+Check the DTMC by Storm, cost time: [ 0.3383009433746338 ]
+The result of Check MDP by Storm : 0.2451974386687661
+---------Start Simulating in 45 steps---------
+step= 45 unsafecount= 1922 the simulated unsafe prob: 0.1922
+-------------Verifying the  MDP in 50 steps----------
+Check the DTMC by Storm, cost time: [ 0.39856958389282227 ]
+The result of Check MDP by Storm : 0.26595122805075205
+---------Start Simulating in 50 steps---------
+step= 50 unsafecount= 2194 the simulated unsafe prob: 0.2194
+-------------Verifying the  MDP in 55 steps----------
+Check the DTMC by Storm, cost time: [ 0.4791088104248047 ]
+The result of Check MDP by Storm : 0.2806335308545826
+---------Start Simulating in 55 steps---------
+step= 55 unsafecount= 2340 the simulated unsafe prob: 0.234
+-------------Verifying the  MDP in 60 steps----------
+Check the DTMC by Storm, cost time: [ 0.5778214931488037 ]
+The result of Check MDP by Storm : 0.2915337228893373
+---------Start Simulating in 60 steps---------
+step= 60 unsafecount= 2371 the simulated unsafe prob: 0.2371
+------use_orthogonal_init------
+------use_orthogonal_init------
+...load... /home/yangjunfeng/Verify/Verify/AdaptiveCar/policy/AdaptiveCar_actorlevel_4.pth net
+Starting for verification of region: [-6.9999, 13.0001, -1.00001, 24.99999]
+start state:
+start state:
+Steps : 0    |    Transition Size : 72000    |    Time Cost: 0
+Steps : 1    |    Transition Size : 212900    |    Time Cost: 24.32291841506958
+Steps : 2    |    Transition Size : 222697    |    Time Cost: 67.68821954727173
+Steps : 3    |    Transition Size : 232800    |    Time Cost: 70.73952579498291
+Steps : 4    |    Transition Size : 243121    |    Time Cost: 73.96336507797241
+Steps : 5    |    Transition Size : 253853    |    Time Cost: 77.13404941558838
+Steps : 6    |    Transition Size : 264488    |    Time Cost: 80.48734784126282
+Steps : 7    |    Transition Size : 275077    |    Time Cost: 83.74925017356873
+Steps : 8    |    Transition Size : 286777    |    Time Cost: 86.97194242477417
+Steps : 9    |    Transition Size : 299791    |    Time Cost: 90.71847677230835
+Steps : 10    |    Transition Size : 313398    |    Time Cost: 94.7665491104126
+Steps : 11    |    Transition Size : 326128    |    Time Cost: 98.96522927284241
+Steps : 12    |    Transition Size : 339215    |    Time Cost: 102.89300966262817
+Steps : 13    |    Transition Size : 353518    |    Time Cost: 107.01183795928955
+Steps : 14    |    Transition Size : 366943    |    Time Cost: 111.27646350860596
+Steps : 15    |    Transition Size : 381030    |    Time Cost: 115.64884424209595
+Steps : 16    |    Transition Size : 395098    |    Time Cost: 119.97727632522583
+Steps : 17    |    Transition Size : 409205    |    Time Cost: 124.36764693260193
+Steps : 18    |    Transition Size : 423867    |    Time Cost: 128.50868391990662
+Steps : 19    |    Transition Size : 436077    |    Time Cost: 132.41462326049805
+Steps : 20    |    Transition Size : 447337    |    Time Cost: 135.87963676452637
+Steps : 21    |    Transition Size : 459090    |    Time Cost: 139.26777958869934
+Steps : 22    |    Transition Size : 469100    |    Time Cost: 142.56603264808655
+Steps : 23    |    Transition Size : 479861    |    Time Cost: 145.6388282775879
+Steps : 24    |    Transition Size : 488969    |    Time Cost: 148.7372670173645
+Steps : 25    |    Transition Size : 498967    |    Time Cost: 151.45754647254944
+Steps : 26    |    Transition Size : 507318    |    Time Cost: 154.35701847076416
+Steps : 27    |    Transition Size : 516567    |    Time Cost: 156.9168312549591
+Steps : 28    |    Transition Size : 524304    |    Time Cost: 159.563246011734
+Steps : 29    |    Transition Size : 531357    |    Time Cost: 161.95662832260132
+Steps : 30    |    Transition Size : 538063    |    Time Cost: 164.03173422813416
+Steps : 31    |    Transition Size : 545044    |    Time Cost: 166.09326219558716
+Steps : 32    |    Transition Size : 552006    |    Time Cost: 168.13944458961487
+Steps : 33    |    Transition Size : 559756    |    Time Cost: 170.41430377960205
+Steps : 34    |    Transition Size : 566750    |    Time Cost: 172.78998732566833
+Steps : 35    |    Transition Size : 574505    |    Time Cost: 174.94744038581848
+Steps : 36    |    Transition Size : 581521    |    Time Cost: 177.40694069862366
+Steps : 37    |    Transition Size : 589783    |    Time Cost: 179.65170860290527
+Steps : 38    |    Transition Size : 596916    |    Time Cost: 182.43048191070557
+Steps : 39    |    Transition Size : 604925    |    Time Cost: 184.75120186805725
+Steps : 40    |    Transition Size : 612267    |    Time Cost: 187.17639255523682
+Steps : 41    |    Transition Size : 620956    |    Time Cost: 189.65207386016846
+Steps : 42    |    Transition Size : 628689    |    Time Cost: 192.43538689613342
+Steps : 43    |    Transition Size : 637308    |    Time Cost: 195.13429832458496
+Steps : 44    |    Transition Size : 645367    |    Time Cost: 198.06339287757874
+Steps : 45    |    Transition Size : 653060    |    Time Cost: 200.5372769832611
+Steps : 46    |    Transition Size : 661360    |    Time Cost: 202.97409868240356
+Steps : 47    |    Transition Size : 669756    |    Time Cost: 205.60298418998718
+Steps : 48    |    Transition Size : 678367    |    Time Cost: 208.2929129600525
+Steps : 49    |    Transition Size : 687157    |    Time Cost: 210.8883330821991
+Steps : 50    |    Transition Size : 696113    |    Time Cost: 213.83344173431396
+Steps : 51    |    Transition Size : 705276    |    Time Cost: 216.51532864570618
+Steps : 52    |    Transition Size : 714703    |    Time Cost: 219.64721941947937
+Steps : 53    |    Transition Size : 724315    |    Time Cost: 222.7895691394806
+Steps : 54    |    Transition Size : 734182    |    Time Cost: 225.963317155838
+Steps : 55    |    Transition Size : 744219    |    Time Cost: 229.12424969673157
+Steps : 56    |    Transition Size : 754510    |    Time Cost: 232.34795594215393
+Steps : 57    |    Transition Size : 765006    |    Time Cost: 235.55931997299194
+Steps : 58    |    Transition Size : 775686    |    Time Cost: 238.9352011680603
+Steps : 59    |    Transition Size : 786593    |    Time Cost: 242.17481112480164
+Steps : 60    |    Transition Size : 797670    |    Time Cost: 245.79298853874207
+-------------------------------------------------------------- 
+Model type: 	MDP (sparse)
+States: 	797670
+Transitions: 	4028373
+Choices: 	2024738
+Reward Models:  none
+State Labels: 	2 labels
+   * init -> 0 item(s)
+   * unsafe -> 10026 item(s)
+Choice Labels: 	none
+-------------------------------------------------------------- 
+
+-------------Verifying the  MDP in 0 steps----------
+Check the DTMC by Storm, cost time: [ 0.04771590232849121 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 0 steps---------
+step= 0 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 5 steps----------
+Check the DTMC by Storm, cost time: [ 0.04716157913208008 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 5 steps---------
+step= 5 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 10 steps----------
+Check the DTMC by Storm, cost time: [ 0.061727046966552734 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 10 steps---------
+step= 10 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 15 steps----------
+Check the DTMC by Storm, cost time: [ 0.0839087963104248 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 15 steps---------
+step= 15 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 20 steps----------
+Check the DTMC by Storm, cost time: [ 0.12163829803466797 ]
+The result of Check MDP by Storm : 0.0009982108750735323
+---------Start Simulating in 20 steps---------
+step= 20 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 25 steps----------
+Check the DTMC by Storm, cost time: [ 0.1528785228729248 ]
+The result of Check MDP by Storm : 0.03027302134049338
+---------Start Simulating in 25 steps---------
+step= 25 unsafecount= 121 the simulated unsafe prob: 0.0121
+-------------Verifying the  MDP in 30 steps----------
+Check the DTMC by Storm, cost time: [ 0.22242951393127441 ]
+The result of Check MDP by Storm : 0.08380336302328033
+---------Start Simulating in 30 steps---------
+step= 30 unsafecount= 484 the simulated unsafe prob: 0.0484
+-------------Verifying the  MDP in 35 steps----------
+Check the DTMC by Storm, cost time: [ 0.29749274253845215 ]
+The result of Check MDP by Storm : 0.14493813747152
+---------Start Simulating in 35 steps---------
+step= 35 unsafecount= 923 the simulated unsafe prob: 0.0923
+-------------Verifying the  MDP in 40 steps----------
+Check the DTMC by Storm, cost time: [ 0.3663442134857178 ]
+The result of Check MDP by Storm : 0.2057633504318413
+---------Start Simulating in 40 steps---------
+step= 40 unsafecount= 1440 the simulated unsafe prob: 0.144
+-------------Verifying the  MDP in 45 steps----------
+Check the DTMC by Storm, cost time: [ 0.4295926094055176 ]
+The result of Check MDP by Storm : 0.258472125441901
+---------Start Simulating in 45 steps---------
+step= 45 unsafecount= 1875 the simulated unsafe prob: 0.1875
+-------------Verifying the  MDP in 50 steps----------
+Check the DTMC by Storm, cost time: [ 0.5252833366394043 ]
+The result of Check MDP by Storm : 0.29556160070437687
+---------Start Simulating in 50 steps---------
+step= 50 unsafecount= 2225 the simulated unsafe prob: 0.2225
+-------------Verifying the  MDP in 55 steps----------
+Check the DTMC by Storm, cost time: [ 0.6418323516845703 ]
+The result of Check MDP by Storm : 0.3206919071486945
+---------Start Simulating in 55 steps---------
+step= 55 unsafecount= 2439 the simulated unsafe prob: 0.2439
+-------------Verifying the  MDP in 60 steps----------
+Check the DTMC by Storm, cost time: [ 0.7615180015563965 ]
+The result of Check MDP by Storm : 0.3380998102798713
+---------Start Simulating in 60 steps---------
+step= 60 unsafecount= 2744 the simulated unsafe prob: 0.2744
+------use_orthogonal_init------
+------use_orthogonal_init------
+...load... /home/yangjunfeng/Verify/Verify/AdaptiveCar/policy/AdaptiveCar_actorlevel_4.pth net
+Starting for verification of region: [-7.9999, 17.0001, -2.00001, 31.99999]
+start state:
+start state:
+Steps : 0    |    Transition Size : 90000    |    Time Cost: 0
+Steps : 1    |    Transition Size : 266885    |    Time Cost: 30.549042224884033
+Steps : 2    |    Transition Size : 277923    |    Time Cost: 85.40686964988708
+Steps : 3    |    Transition Size : 290858    |    Time Cost: 88.87490701675415
+Steps : 4    |    Transition Size : 303146    |    Time Cost: 92.83769488334656
+Steps : 5    |    Transition Size : 317850    |    Time Cost: 96.6922357082367
+Steps : 6    |    Transition Size : 331143    |    Time Cost: 101.16822361946106
+Steps : 7    |    Transition Size : 346581    |    Time Cost: 105.31948471069336
+Steps : 8    |    Transition Size : 360893    |    Time Cost: 109.99010968208313
+Steps : 9    |    Transition Size : 376578    |    Time Cost: 114.60702419281006
+Steps : 10    |    Transition Size : 391654    |    Time Cost: 119.48306274414062
+Steps : 11    |    Transition Size : 406620    |    Time Cost: 124.20054388046265
+Steps : 12    |    Transition Size : 422416    |    Time Cost: 128.79728865623474
+Steps : 13    |    Transition Size : 438649    |    Time Cost: 133.7217264175415
+Steps : 14    |    Transition Size : 454511    |    Time Cost: 138.6770203113556
+Steps : 15    |    Transition Size : 470398    |    Time Cost: 143.6670868396759
+Steps : 16    |    Transition Size : 487513    |    Time Cost: 148.60410904884338
+Steps : 17    |    Transition Size : 506519    |    Time Cost: 153.99143934249878
+Steps : 18    |    Transition Size : 526224    |    Time Cost: 159.92442536354065
+Steps : 19    |    Transition Size : 544694    |    Time Cost: 165.9036967754364
+Steps : 20    |    Transition Size : 563789    |    Time Cost: 171.7474856376648
+Steps : 21    |    Transition Size : 581607    |    Time Cost: 176.85874223709106
+Steps : 22    |    Transition Size : 596332    |    Time Cost: 181.76893019676208
+Steps : 23    |    Transition Size : 609988    |    Time Cost: 186.2190432548523
+Steps : 24    |    Transition Size : 622117    |    Time Cost: 190.08760690689087
+Steps : 25    |    Transition Size : 633228    |    Time Cost: 193.73216915130615
+Steps : 26    |    Transition Size : 644829    |    Time Cost: 196.89131927490234
+Steps : 27    |    Transition Size : 655948    |    Time Cost: 200.3752064704895
+Steps : 28    |    Transition Size : 666485    |    Time Cost: 203.5549659729004
+Steps : 29    |    Transition Size : 678168    |    Time Cost: 206.87347793579102
+Steps : 30    |    Transition Size : 687956    |    Time Cost: 210.29277801513672
+Steps : 31    |    Transition Size : 698761    |    Time Cost: 213.23581051826477
+Steps : 32    |    Transition Size : 707819    |    Time Cost: 216.43026304244995
+Steps : 33    |    Transition Size : 718097    |    Time Cost: 219.09236812591553
+Steps : 34    |    Transition Size : 726478    |    Time Cost: 222.18174529075623
+Steps : 35    |    Transition Size : 736130    |    Time Cost: 224.8023042678833
+Steps : 36    |    Transition Size : 744226    |    Time Cost: 227.65791654586792
+Steps : 37    |    Transition Size : 751703    |    Time Cost: 230.2523534297943
+Steps : 38    |    Transition Size : 759014    |    Time Cost: 232.52087593078613
+Steps : 39    |    Transition Size : 767056    |    Time Cost: 234.84646773338318
+Steps : 40    |    Transition Size : 775105    |    Time Cost: 237.22092819213867
+Steps : 41    |    Transition Size : 784164    |    Time Cost: 239.87659072875977
+Steps : 42    |    Transition Size : 792253    |    Time Cost: 242.6375117301941
+Steps : 43    |    Transition Size : 801357    |    Time Cost: 245.1440076828003
+Steps : 44    |    Transition Size : 809473    |    Time Cost: 248.02845549583435
+Steps : 45    |    Transition Size : 819088    |    Time Cost: 250.485023021698
+Steps : 46    |    Transition Size : 827348    |    Time Cost: 253.44553637504578
+Steps : 47    |    Transition Size : 836809    |    Time Cost: 256.1018810272217
+Steps : 48    |    Transition Size : 845378    |    Time Cost: 258.9904284477234
+Steps : 49    |    Transition Size : 855560    |    Time Cost: 261.894588470459
+Steps : 50    |    Transition Size : 864488    |    Time Cost: 265.01671409606934
+Steps : 51    |    Transition Size : 874670    |    Time Cost: 268.0133218765259
+Steps : 52    |    Transition Size : 883970    |    Time Cost: 271.2394964694977
+Steps : 53    |    Transition Size : 892839    |    Time Cost: 274.04729986190796
+Steps : 54    |    Transition Size : 902296    |    Time Cost: 276.80020022392273
+Steps : 55    |    Transition Size : 911908    |    Time Cost: 279.8009240627289
+Steps : 56    |    Transition Size : 921667    |    Time Cost: 282.8771471977234
+Steps : 57    |    Transition Size : 931596    |    Time Cost: 285.7780222892761
+Steps : 58    |    Transition Size : 941722    |    Time Cost: 289.0955889225006
+Steps : 59    |    Transition Size : 952073    |    Time Cost: 292.0600736141205
+Steps : 60    |    Transition Size : 962642    |    Time Cost: 295.5270130634308
+-------------------------------------------------------------- 
+Model type: 	MDP (sparse)
+States: 	962642
+Transitions: 	4832223
+Choices: 	2427828
+Reward Models:  none
+State Labels: 	2 labels
+   * init -> 0 item(s)
+   * unsafe -> 12864 item(s)
+Choice Labels: 	none
+-------------------------------------------------------------- 
+
+-------------Verifying the  MDP in 0 steps----------
+Check the DTMC by Storm, cost time: [ 0.056162357330322266 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 0 steps---------
+step= 0 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 5 steps----------
+Check the DTMC by Storm, cost time: [ 0.067718505859375 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 5 steps---------
+step= 5 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 10 steps----------
+Check the DTMC by Storm, cost time: [ 0.08882951736450195 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 10 steps---------
+step= 10 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 15 steps----------
+Check the DTMC by Storm, cost time: [ 0.11369872093200684 ]
+The result of Check MDP by Storm : 0.0
+---------Start Simulating in 15 steps---------
+step= 15 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 20 steps----------
+Check the DTMC by Storm, cost time: [ 0.1477832794189453 ]
+The result of Check MDP by Storm : 7.555819345515336e-10
+---------Start Simulating in 20 steps---------
+step= 20 unsafecount= 0 the simulated unsafe prob: 0.0
+-------------Verifying the  MDP in 25 steps----------
+Check the DTMC by Storm, cost time: [ 0.1966724395751953 ]
+The result of Check MDP by Storm : 0.007685076216173422
+---------Start Simulating in 25 steps---------
+step= 25 unsafecount= 5 the simulated unsafe prob: 0.0005
+-------------Verifying the  MDP in 30 steps----------
+Check the DTMC by Storm, cost time: [ 0.25972485542297363 ]
+The result of Check MDP by Storm : 0.04746622423677153
+---------Start Simulating in 30 steps---------
+step= 30 unsafecount= 261 the simulated unsafe prob: 0.0261
+-------------Verifying the  MDP in 35 steps----------
+Check the DTMC by Storm, cost time: [ 0.34189319610595703 ]
+The result of Check MDP by Storm : 0.10542575819212903
+---------Start Simulating in 35 steps---------
+step= 35 unsafecount= 647 the simulated unsafe prob: 0.0647
+-------------Verifying the  MDP in 40 steps----------
+Check the DTMC by Storm, cost time: [ 0.43975043296813965 ]
+The result of Check MDP by Storm : 0.1708436643347835
+---------Start Simulating in 40 steps---------
+step= 40 unsafecount= 1148 the simulated unsafe prob: 0.1148
+-------------Verifying the  MDP in 45 steps----------
+Check the DTMC by Storm, cost time: [ 0.5617401599884033 ]
+The result of Check MDP by Storm : 0.23703540457206693
+---------Start Simulating in 45 steps---------
+step= 45 unsafecount= 1593 the simulated unsafe prob: 0.1593
+-------------Verifying the  MDP in 50 steps----------
+Check the DTMC by Storm, cost time: [ 0.7113192081451416 ]
+The result of Check MDP by Storm : 0.29633586938605877
+---------Start Simulating in 50 steps---------
+step= 50 unsafecount= 2088 the simulated unsafe prob: 0.2088
+-------------Verifying the  MDP in 55 steps----------
+Check the DTMC by Storm, cost time: [ 0.8517274856567383 ]
+The result of Check MDP by Storm : 0.3408001037444616
+---------Start Simulating in 55 steps---------
+step= 55 unsafecount= 2604 the simulated unsafe prob: 0.2604
+-------------Verifying the  MDP in 60 steps----------
+Check the DTMC by Storm, cost time: [ 1.0295822620391846 ]
+The result of Check MDP by Storm : 0.3721071505756442
+---------Start Simulating in 60 steps---------
+step= 60 unsafecount= 2884 the simulated unsafe prob: 0.2884
+所有数据和平均误差已存储到文件中,用时 4146.74423956871
+
+进程已结束,退出代码0
